@@ -34,20 +34,49 @@
         button:hover {
             background-color: #0056b3;
         }
+        .titleText {
+            font-size: 48px;
+            display: flex;
+            font-weight: bold;
+            align-items: center; /* Aligns emojis and text to the same baseline */
+            justify-content: center;
+            gap: 10px; /* Adds spacing between the emojis and text */   
+        }
+
+        #emojiBible,
+        #emojiPrayer {
+            font-size: 48px; /* Match emoji size to text */
+            line-height: 1; /* Prevent extra space affecting alignment */
+            display: flex; /* Ensures they behave like inline elements */
+            align-items: center; /* Centers content inside them */
+        }
+        .bibleFactTextGenerator{
+            font-size: 48px;
+            margin:0px;
+        }
 
     </style>
 </head>
 <body>
     <div class="container">
-        <h2>Did you know? Bible Fact Generator</h2>
+        <div class="titleText">  
+            <div id="emojiBible"></div> 
+            <span>Did you know?</span>
+            <div id="emojiPrayer"></div>
+        </div>
+        <h2 class="bibleFactTextGenerator">Bible Fact Generator</h2>
         <p id="verse">Click the button to get one random bible fact</p>
         <button onclick="generateVerse()">Generate Verse</button>
         <!-- <img src="images/saguaro_img.jpg" class="saguaro"> -->
+        
 
     </div>
 
     <script>
-       // const img= document.createElement("./images/saguaro_img");
+        const bibleEmoji= "\u{1F4D6}";
+        const prayerEmoji="\u{1F64F}"
+        document.getElementById("emojiBible").innerHTML=bibleEmoji;
+        document.getElementById("emojiPrayer").innerHTML=prayerEmoji;
         const verses = [
             "John 3:16 - For God so loved the world...",
             "Psalm 23:1 - The Lord is my shepherd, I shall not want...",
