@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Bible Verse</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Random Bible Verse</h2>
+        <p id="verse">Click the button to get a Bible verse</p>
+        <button onclick="generateVerse()">Generate Verse</button>
+    </div>
+
+    <script>
+        const verses = [
+            "John 3:16 - For God so loved the world...",
+            "Psalm 23:1 - The Lord is my shepherd, I shall not want...",
+            "Romans 8:28 - And we know that in all things God works for the good...",
+            "Philippians 4:13 - I can do all things through Christ who strengthens me...",
+            // Add more verses here up to 2000...
+        ];
+        
+        function generateVerse() {
+            const randomIndex = Math.floor(Math.random() * verses.length);
+            document.getElementById('verse').innerText = verses[randomIndex];
+        }
+    </script>
+</body>
+</html>
