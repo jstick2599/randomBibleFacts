@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +11,7 @@
             text-align: center;
             margin: 50px;
             background-color: #f4f4f4;
+            background-image: url("images/saguaro_img.jpg");
         }
         .container {
             background: white;
@@ -32,16 +34,20 @@
         button:hover {
             background-color: #0056b3;
         }
+
     </style>
 </head>
 <body>
     <div class="container">
-        <h2>Random Bible Verse</h2>
-        <p id="verse">Click the button to get a Bible verse</p>
+        <h2>Did you know? Bible Fact Generator</h2>
+        <p id="verse">Click the button to get one random bible fact</p>
         <button onclick="generateVerse()">Generate Verse</button>
+        <!-- <img src="images/saguaro_img.jpg" class="saguaro"> -->
+
     </div>
 
     <script>
+       // const img= document.createElement("./images/saguaro_img");
         const verses = [
             "John 3:16 - For God so loved the world...",
             "Psalm 23:1 - The Lord is my shepherd, I shall not want...",
@@ -54,6 +60,7 @@
             const randomIndex = Math.floor(Math.random() * verses.length);
             document.getElementById('verse').innerText = verses[randomIndex];
         }
+        
     </script>
 </body>
 </html>
