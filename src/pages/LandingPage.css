@@ -1,101 +1,133 @@
+/* Prevent horizontal scrolling */
 .landingPageWrapper {
   height: 100vh;
-  overflow-x: hidden; /* Prevent horizontal scroll */
+  overflow-x: hidden;
 }
 
+/* Ensure pages take full viewport */
 .page1, .nextPage {
-  height: 100vh; /* Full viewport height */
-  width: 100vw; /* Full width */
+  min-height: 100vh; 
+  height:auto; 
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
+
+/* Next Page Styling */
 .nextPage {
-  padding: 20px;
+  padding: 2vw;
   background-color: #e0e0e0;
   border-radius: 10px;
 }
+
+/* Background Image Styling */
 .page1 {
-  display: flex;
-  flex-direction: column;
-  /* justify-content: center; Optional, to center content vertically */
-  /* align-items: center; Optional, to center content horizontally */
-  background-color: #f0f0f0; /* Optional, to make it visually distinct */
+  background-color: #f0f0f0;
   background-image: url("../images/saguaro_img.jpg");
-  background-repeat: no-repeat; /* Prevent the image from repeating */
-  background-size: cover; /* Cover the entire container, may crop */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 
-
+/* Responsive container */
 .container {
   background: white;
-  padding: 20px;
+  /* clamp(min, preferred, max) */
+  padding: clamp(15px, 2vw, 25px);
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  max-width: 600px;
+  width: clamp(300px, 45vw, 600px); /* Scales properly */
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   margin: auto;
-  min-height: 100px; /* Allows the div to expand as needed */
-  position: relative; /* Ensures positioning context for child elements */
-  
+  min-height: 100px;
+  position: relative;
 }
 
-
+/* Button Styling */
 button {
-  margin-top: 20px;
-  padding: 10px 20px;
-  font-size: 16px;
+  margin-top: 2vh;
+  padding: clamp(8px, 1.5vw, 12px) clamp(16px, 3vw, 24px);
+  font-size: clamp(14px, 1.5vw, 18px);
   cursor: pointer;
   background-color: #007BFF;
   color: white;
   border: none;
   border-radius: 5px;
 }
+
 button:hover {
   background-color: #0056b3;
 }
+
+/* Title text - Consistent scaling */
 .titleText {
-  font-size: 48px;
+  font-size: clamp(24px, 4vw, 48px);
   display: flex;
   font-weight: bold;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 1vw;
 }
+
+/* Emoji Scaling */
 #emojiBible,
 #emojiPrayer {
-  font-size: 48px;
-  line-height: 1;
+  font-size: clamp(24px, 4vw, 48px);
   display: flex;
   align-items: center;
 }
+
+/* Bible Fact Title */
 .bibleFactTextGenerator {
-  font-size: 48px;
+  font-size: clamp(24px, 4vw, 48px);
   margin: 0;
 }
-/* Content wrapper for cactus and verse */
+
+/* Content Wrapper */
 .contentWrapper {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   position: relative;
-  margin-top:3%;
-  margin-bottom:3%;
+  margin: 3% 0;
+  flex-wrap: wrap;
+  text-align: center;
 }
+
+/* Cactus Image (Responsive) */
 #saguaro {
-  visibility: hidden; /* Initially hidden */
-  opacity: 0; /* Fully transparent */
-  width: 20%;
+  visibility: hidden;
+  opacity: 0;
+  max-width: clamp(80px, 20vw, 200px);
   transition: transform 2s ease-in-out, opacity 0.5s ease-in-out;
-  position: absolute; /* Keep cactus in the same position as the text */
-  
+  position: absolute;
 }
+
+/* Verse Text */
 #verse {
   transition: opacity 1s ease-in-out;
 }
-#youtubeLogo{
-  width:10%; 
+
+/* Mobile Scaling */
+@media screen and (max-width: 768px) {
+  /* the below scaling only applies when width is 768px or less */
+  .container {
+    width: 90vw;
+  }
+
+  .contentWrapper {
+    flex-direction: column;
+  }
+
+  #saguaro {
+    max-width: 40vw;
+  }
 }
-
-

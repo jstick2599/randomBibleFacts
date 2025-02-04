@@ -2,6 +2,9 @@ import React, { useState, useEffect } from "react";
 import "./LandingPage.css";
 import cactusImage from "../images/cactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
+//******add images later*******
+// import fbImage from "../images/fbLogo.png";
+// import igImage from "../images/igLogo.png";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
