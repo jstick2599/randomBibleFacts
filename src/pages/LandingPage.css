@@ -94,5 +94,8 @@ button:hover {
 #verse {
   transition: opacity 1s ease-in-out;
 }
+#youtubeLogo{
+  width:10%; 
+}
 
 

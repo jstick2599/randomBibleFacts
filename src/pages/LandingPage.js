@@ -79,7 +79,7 @@ const LandingPage = () => {
       <div id="nextPage" className="nextPage">
         <h2>Next Page Content</h2>
         <p>This is the content that comes after the verse.</p>
-        <img src={youtubeImage} alt="Youtube Logo" />
+        <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
       </div>
     </div>
   );
