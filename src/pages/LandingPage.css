@@ -31,6 +31,7 @@
   background-position: center;
   padding-top:10px;
   padding-bottom: 10px;
+  /* height:100vw;  */
 }
 
 /* Responsive container */
@@ -110,10 +111,44 @@ button:hover {
   transition: transform 2s ease-in-out, opacity 0.5s ease-in-out;
   position: absolute;
 }
+.tiles{
+
+  display: flex;
+  flex-direction: row;
+}
+.tile{
+  background-color:white; 
+  padding:4%; 
+  border-radius: 3%;
+  margin:3%;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+  height:60vh;
+  width:33vw; 
+}
+
+.tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+}
+
+
 
 /* Verse Text */
 #verse {
   transition: opacity 1s ease-in-out;
+}
+
+.socialMedia{
+  display: flex;
+  flex-direction: row;
+}
+
+#igLogo, #youtubeLogo{
+  height:8vw; 
+  padding: 3%;
 }
 
 /* Mobile Scaling */
@@ -121,6 +156,10 @@ button:hover {
   /* the below scaling only applies when width is 768px or less */
   .container {
     width: 90vw;
+  }
+  .tiles{
+    display: flex;
+    flex-direction: column;
   }
 
   .contentWrapper {
