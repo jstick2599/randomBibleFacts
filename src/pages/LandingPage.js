@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from "react";
+import {useNavigate} from "react-router-dom";
 import "./LandingPage.css";
 import cactusImage from "../images/cactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
 //******add images later*******
-// import fbImage from "../images/fbLogo.png";
-// import igImage from "../images/igLogo.png";
+// import tiktokImage from "../images/tiktokLogo.png";
+import igImage from "../images/igLogo.png";
+import TestPage from "./TestPage";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -60,7 +62,11 @@ const LandingPage = () => {
       cactus.style.opacity = 0;
     }, 2000);
   };
-
+  const navigate = useNavigate();
+  const PageTest = () => {
+    
+    return (navigate("/TestPage"));
+  };
   return (
     <div className="landingPageWrapper">
       <div className="page1">
@@ -80,9 +86,25 @@ const LandingPage = () => {
       </div>
 
       <div id="nextPage" className="nextPage">
-        <h2>Next Page Content</h2>
-        <p>This is the content that comes after the verse.</p>
-        <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
+        <div className="tiles">
+          <div className="tile">
+            <h2>Next Page Content</h2>
+            <p>This is the content that comes after the verse.</p>
+          </div>
+          <div className="tile" onClick={PageTest}>
+            <h2>Next Page Content</h2>
+            <p>This is the content that comes after the verse.</p>
+          </div>
+          <div className="tile">
+            <h2>Next Page Content</h2>
+            <p>This is the content that comes after the verse.</p>
+          </div>
+        </div>
+        <div className="socialMedia">
+          <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
+          <img src={igImage} alt="Instagram Logo" id="igLogo"/>
+        </div>
+        
       </div>
     </div>
   );
