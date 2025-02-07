@@ -1,0 +1,14 @@
+.subTitle{
+    padding-left:10%;
+    padding-right:10%;
+}
+.bornAgainTitle{
+    display: flex;
+    justify-content: center;
+}
+.step{
+    display: flex;
+    justify-content: center;
+}
+
+      

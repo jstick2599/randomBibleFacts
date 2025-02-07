@@ -1,0 +1,61 @@
+
+/* body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+} */
+
+.normalText{
+    font-weight: normal;
+}
+.yaFullPage {
+    overflow-x: hidden; 
+    height: 100vh;  /* Covers the full viewport height */
+    width: 100vw;   /* Ensures full width */  
+    font-family: 'Lora', serif;
+    background-color: #ffa8B6;
+ 
+}
+
+.yaTitle{
+    display:flex;
+    justify-content: center;
+    padding-top:.5%;
+}
+h3{
+    padding-left:10%;
+    padding-right:10%;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    padding:1%;
+    border-radius: 5%;
+    gap:20px; 
+    
+}
+.column{
+    display: flex;
+    flex-direction: column;
+
+}
+#rc{
+    /* background-color:white; */
+    background-color: #51e2f5;
+    padding:.5%;
+    width:30vw;
+    margin-left:10%;
+    /* color:white;  */
+
+}
+
+h4{
+    margin:0;
+}
+#lastSentence{
+    display:flex;
+    justify-content: center;
+    padding-top:1%;
+    padding-bottom:1%;
+}

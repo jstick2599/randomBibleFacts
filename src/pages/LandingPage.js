@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import {useNavigate} from "react-router-dom";
-import "./LandingPage.css";
+import "../styling/LandingPage.css";
 import cactusImage from "../images/cactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
 //******add images later*******
 // import tiktokImage from "../images/tiktokLogo.png";
 import igImage from "../images/igLogo.png";
-import TestPage from "./TestPage";
+// import YaGroupArticle from "./YaGroupArticle";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -63,10 +63,15 @@ const LandingPage = () => {
     }, 2000);
   };
   const navigate = useNavigate();
-  const PageTest = () => {
+  const BornAgainPage = () => {
     
-    return (navigate("/TestPage"));
+    return (navigate("/BornAgainHowTo"));
   };
+  const YaGroupPage = () => {
+    
+    return (navigate("/YaGroupArticle"));
+  };
+
   return (
     <div className="landingPageWrapper">
       <div className="page1">
@@ -87,12 +92,12 @@ const LandingPage = () => {
 
       <div id="nextPage" className="nextPage">
         <div className="tiles">
-          <div className="tile">
-            <h2>Next Page Content</h2>
+          <div className="tile" onClick={BornAgainPage}>
+            <h2>How to Become a Christian in 3 Easy Steps</h2>
             <p>This is the content that comes after the verse.</p>
           </div>
-          <div className="tile" onClick={PageTest}>
-            <h2>Next Page Content</h2>
+          <div className="tile" onClick={YaGroupPage}>
+            <h2>Top 10 Christian bible study groups in Tucson, Arizona</h2>
             <p>This is the content that comes after the verse.</p>
           </div>
           <div className="tile">
@@ -111,5 +116,3 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
-
-

@@ -1,8 +1,11 @@
+
 import React from "react";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import Home from "./pages/LandingPage";
 // import NextPage from "./NextPage";
-import TestPage from "./pages/TestPage";
+import BornAgainHowTo from "./pages/BornAgainHowTo";
+import YaGroupArticle from "./pages/YaGroupArticle";
+
 import "./App.css";
 
 function App() {
@@ -10,7 +13,8 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/TestPage" element={<TestPage />} />
+        <Route path="/YaGroupArticle" element={<YaGroupArticle />} />
+        <Route path="/BornAgainHowTo" element={<BornAgainHowTo />} />
       </Routes>
     </Router>
   );
