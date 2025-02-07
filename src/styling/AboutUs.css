@@ -1,0 +1,13 @@
+.video {
+    height: 100vh; 
+    width: 35vw; /* Make it span the 35% full width of its parent */
+    display: flex; /* Ensures proper centering if needed */
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    width: 100%; /* Ensures the video takes full width of .video container */
+    height: 100%; /* Ensures it fills the height */
+    object-fit: cover; /* Ensures video covers the area while maintaining aspect ratio */
+}
