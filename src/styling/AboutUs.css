@@ -7,7 +7,13 @@
 }
 
 video {
-    width: 100%; /* Ensures the video takes full width of .video container */
-    height: 100%; /* Ensures it fills the height */
-    object-fit: cover; /* Ensures video covers the area while maintaining aspect ratio */
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+    
 }
+video:fullscreen {
+    width: 100vw;
+    height: 100vh;
+}
+
