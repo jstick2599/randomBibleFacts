@@ -5,6 +5,8 @@ import cactusImage from "../images/cactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
 import tiktokImage from "../images/tiktokLogo.png";
 import igImage from "../images/igLogo.png";
+import bible from "../images/bible.webp";
+import websiteLogo from "../images/websiteLogo.jpeg";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -95,16 +97,19 @@ const LandingPage = () => {
       <div id="nextPage" className="nextPage">
         <div className="tiles">
           <div className="tile" onClick={BornAgainPage}>
-            <h2>How to Become a Christian in 3 Easy Steps</h2>
-            <p>This is the content that comes after the verse.</p>
+            <img src={bible} alt="Open Bible" id="bible"/>
+            <h2 className="aboutUsTitle">How to Become a Christian in 3 Easy Steps</h2>
+            <p className="aboutUsParagraph">Click here if you are curious about Christianity</p>
           </div>
           <div className="tile" onClick={YaGroupPage}>
-            <h2>Top 10 Christian bible study groups in Tucson, Arizona</h2>
-            <p>This is the content that comes after the verse.</p>
+            <img src={bible} alt="Open Bible" id="bible"/>
+            <h2 className="aboutUsTitle">Top 10 Christian bible study groups in Tucson, Arizona.</h2>
+            <p className="aboutUsParagraph">If you are interested in finding some bible study groups, then click here.</p>
           </div>
           <div className="tile" onClick={AboutUsPage}>
-            <h2>About Us</h2>
-            <p>This is the content that comes after the verse.</p>
+            <img src={websiteLogo} alt="Website Logo" id="websiteLogo"/>
+            <h2 className="aboutUsTitle">About Us</h2>
+            <p className="aboutUsParagraph">Click here to see a video about us with some of our values.</p>
           </div>
         </div>
         <div className="socialMedia">
