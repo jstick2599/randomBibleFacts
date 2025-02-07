@@ -3,10 +3,8 @@ import {useNavigate} from "react-router-dom";
 import "../styling/LandingPage.css";
 import cactusImage from "../images/cactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
-//******add images later*******
-// import tiktokImage from "../images/tiktokLogo.png";
+import tiktokImage from "../images/tiktokLogo.png";
 import igImage from "../images/igLogo.png";
-// import YaGroupArticle from "./YaGroupArticle";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -71,6 +69,10 @@ const LandingPage = () => {
     
     return (navigate("/YaGroupArticle"));
   };
+  const AboutUsPage = () => {
+    
+    return (navigate("/AboutUs"));
+  };
 
   return (
     <div className="landingPageWrapper">
@@ -100,14 +102,18 @@ const LandingPage = () => {
             <h2>Top 10 Christian bible study groups in Tucson, Arizona</h2>
             <p>This is the content that comes after the verse.</p>
           </div>
-          <div className="tile">
-            <h2>Next Page Content</h2>
+          <div className="tile" onClick={AboutUsPage}>
+            <h2>About Us</h2>
             <p>This is the content that comes after the verse.</p>
           </div>
         </div>
         <div className="socialMedia">
-          <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
           <img src={igImage} alt="Instagram Logo" id="igLogo"/>
+          <div className="youtubeDiv">
+            <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
+          </div>
+          
+          <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
         </div>
         
       </div>
@@ -116,3 +122,4 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
+
