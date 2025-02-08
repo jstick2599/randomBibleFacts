@@ -3,14 +3,17 @@ import React from "react";
 import "../styling/YaGroupArticle.css";
 import bibleStudyArticleImage from "../images/bibleStudyArticleImage.jpg";
 import cccChurch from  "../images/cccChurch.jpg";
-import calvaryChurch from "../images/calvaryTucsonChurch.jpg"
+import calvaryChurch from "../images/calvaryTucsonChurch.jpg";
+import mvbcChurch from "../images/mvbcChurch.png";
+import lifePointChurch from "../images/lifePointChurch.webp";
+import uaCatholic from "../images/uaCatholic.webp";
 
 function YaGroupArticle(){
     return(
         <div className="yaFullPage">
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
             <div className="yaImage">
-                <img src={bibleStudyArticleImage} alt="Bible Study Image" id="bibleStudyArticleImage"/>
+                <img src={bibleStudyArticleImage} alt="Bible Study" id="bibleStudyArticleImage"/>
             </div>
 
             <div className="yaSubTitle">
@@ -20,7 +23,7 @@ function YaGroupArticle(){
 
             <div className="bibleStudyList">
                 <div className="column" id="rc">
-                    <img src={cccChurch} alt="Christ Community Church image" id="cccChurchImage"/>
+                    <img src={cccChurch} alt="Christ Community Church" id="cccChurchImage"/>
                     <h4>
                         <span className="normalText">1.</span>Pursuit at Christ Community Church
                     
@@ -53,7 +56,7 @@ function YaGroupArticle(){
                     </ul>
                 </div>
                 <div className="column" id="rc">
-                    <img src={calvaryChurch} alt="Calvary Tucson Church image" id="calvaryChurchImage"/>
+                    <img src={calvaryChurch} alt="Calvary Tucson Church" id="calvaryChurchImage"/>
                     <h4>
                         <span className="normalText">3.</span>Ignition Young Adults at Calvary Tucson                    
                     </h4>              
@@ -68,6 +71,7 @@ function YaGroupArticle(){
                         </li>
                     </ul>
                 </div>
+                <img src={mvbcChurch} alt="Mountain  View Baptist Church folks" id="mvbcChurch"/>
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">4.</span>Young Adult Ministry at Mountain View Baptist Church           
@@ -85,6 +89,7 @@ function YaGroupArticle(){
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <img src={lifePointChurch} alt="LifePoint Church folks" id="lifePointChurch"/>
                     <h4>
                         <span className="normalText">5.</span>Young Adult Life Group at LifePoint Church                    
                     </h4>              
@@ -92,10 +97,14 @@ function YaGroupArticle(){
                         <li>Description: A group for individuals aged 18-30, focusing on Bible study and community building.</li>
                         <li>Meeting Time: Mondays at 6:30 PM</li>
                         <li>Location: Youth Room at LifePoint Church</li>
-                        <li>More Information: lifepointtucson.com</li>
+                        <li>More Information:
+                        <a href="https://www.lifepointtucson.com/">
+                        lifepointtucson.com</a> 
+                        </li>
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <img src={uaCatholic} alt="UA Catholic Young Adults" id="uaCatholicChurch"/>
                     <h4>
                         <span className="normalText">6.</span>Young Adult Community at St. Thomas More Catholic Newman Center           
                     </h4> 
@@ -103,7 +112,10 @@ function YaGroupArticle(){
                         <li>Description: A community for individuals aged 22-35, offering weekly gatherings and monthly social events to foster faith and fellowship.</li>
                         <li>Meeting Time: Tuesdays at 7 PM</li>
                         <li>Location: Bishop Green Hall</li>
-                        <li>More Information: uacatholic.org</li>
+                        <li>More Information:
+                        <a href="https://www.uacatholic.org/">
+                        uacatholic.org</a> 
+                        </li>
                     </ul>
                 </div>
                 <div className="column" id="rc">
