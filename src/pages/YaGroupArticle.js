@@ -1,16 +1,26 @@
 
 import React from "react";
 import "../styling/YaGroupArticle.css";
+import bibleStudyArticleImage from "../images/bibleStudyArticleImage.jpg";
+import cccChurch from  "../images/cccChurch.jpg";
+import calvaryChurch from "../images/calvaryTucsonChurch.jpg"
 
 function YaGroupArticle(){
     return(
         <div className="yaFullPage">
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
-            <h3>
-                Tucson, Arizona, offers a vibrant array of young adult Bible study groups, each fostering spiritual growth and community among individuals in their late teens to early thirties. Here are some notable groups in the area:
-            </h3>
+            <div className="yaImage">
+                <img src={bibleStudyArticleImage} alt="Bible Study Image" id="bibleStudyArticleImage"/>
+            </div>
+
+            <div className="yaSubTitle">
+                <h3>Tucson, Arizona, offers a vibrant array of young adult Bible study groups, each fostering spiritual growth and community among individuals in their late teens to early thirties. Here are some notable groups in the area:
+                </h3>
+            </div>
+
             <div className="bibleStudyList">
                 <div className="column" id="rc">
+                    <img src={cccChurch} alt="Christ Community Church image" id="cccChurchImage"/>
                     <h4>
                         <span className="normalText">1.</span>Pursuit at Christ Community Church
                     
@@ -36,11 +46,14 @@ function YaGroupArticle(){
                         <li>Location: Member's homes</li>
                         <li>Contact: Ryan and Tasha Pixler</li>
                         <li>More Information:
-                        ccctucson.org</li>
+                        <a href="https://www.ccctucson.org/">
+                        ccctucson.org</a>
+                        </li>
 
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <img src={calvaryChurch} alt="Calvary Tucson Church image" id="calvaryChurchImage"/>
                     <h4>
                         <span className="normalText">3.</span>Ignition Young Adults at Calvary Tucson                    
                     </h4>              
@@ -50,7 +63,9 @@ function YaGroupArticle(){
                         <li>Location: Calvary Tucson</li>
                         <li>Contact: JD Reyes</li>
                         <li>More Information:
-                        calvarytucson.com</li>
+                        <a href="https://www.calvarytucson.com/">
+                        calvarytucson.com</a>
+                        </li>
                     </ul>
                 </div>
                 <div className="column" id="rc">
@@ -63,7 +78,9 @@ function YaGroupArticle(){
                         <li>Location: Mountain View Baptist Church</li>
                         <li>Contact: Pastor Jared Moore</li>
                         <li>More Information:
-                        mvbctucson.org</li>
+                        <a href="https://www.mvbctucson.org/">
+                        mvbctucson.org</a>
+                        </li>
 
                     </ul>
                 </div>

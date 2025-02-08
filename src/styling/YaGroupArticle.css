@@ -60,4 +60,18 @@ h4{
     width: 30%; /* Adjust this to control the width of each column */
     max-width: 800px; /* Prevents it from getting too wide */
 }
+#bibleStudyArticleImage{
+    width: 70%;
+    height: 30vh;
+    padding-top:1%;
+}
+.yaImage{
+    display: flex;
+    justify-content: center;
+
+}
+.yaSubTitle{
+    padding-left:15%;
+    padding-right:15%;
+}
 
