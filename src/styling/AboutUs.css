@@ -1,9 +1,16 @@
 .video {
     height: 100vh; 
     width: 35vw; /* Make it span the 35% full width of its parent */
-    display: flex; /* Ensures proper centering if needed */
-    justify-content: center;
+    /* Ensures proper centering if needed */
+    /* justify-content: center;
+    align-items: center; */
+}
+.aboutUsPage{
+    display:flex;
+    flex-direction: row;
+    font-family: 'Lora', serif;
     align-items: center;
+    justify-content: center;
 }
 
 video {
@@ -16,4 +23,11 @@ video:fullscreen {
     width: 100vw;
     height: 100vh;
 }
+.bio{
+    width:50vw; 
+    padding-left:2%;
+   
+    
+}
+
 
