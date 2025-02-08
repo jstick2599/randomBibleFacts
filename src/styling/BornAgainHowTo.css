@@ -6,9 +6,20 @@
     display: flex;
     justify-content: center;
 }
-.step{
+.step, .nextStep{
     display: flex;
     justify-content: center;
 }
+.bornAgainFullPage{
+    font-family: 'Lora', serif;
+    color:#333333;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
 
+}
+.bornAgainLastSentence{
+    display: flex;
+    justify-content: center;
+}
       
