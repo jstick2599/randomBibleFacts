@@ -9,7 +9,7 @@ function YaGroupArticle(){
             <h3>
                 Tucson, Arizona, offers a vibrant array of young adult Bible study groups, each fostering spiritual growth and community among individuals in their late teens to early thirties. Here are some notable groups in the area:
             </h3>
-            <div className="row" >
+            <div className="bibleStudyList">
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">1.</span>Pursuit at Christ Community Church
@@ -21,7 +21,7 @@ function YaGroupArticle(){
                         <li>Location: Green-4 Room, Christ Community Church</li>
                         <li>Contact: Brian & Katy McHolm</li>
                         <li>More Information:
-                        <a href="https://cctuscon.org">
+                        <a href="https://www.ccctucson.org/">
                         ccctucson.org</a>
                         </li>
                     </ul>
@@ -40,8 +40,6 @@ function YaGroupArticle(){
 
                     </ul>
                 </div>
-            </div>
-            <div className="row" >
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">3.</span>Ignition Young Adults at Calvary Tucson                    
@@ -69,8 +67,6 @@ function YaGroupArticle(){
 
                     </ul>
                 </div>
-            </div>
-            <div className="row">
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">5.</span>Young Adult Life Group at LifePoint Church                    
@@ -93,9 +89,6 @@ function YaGroupArticle(){
                         <li>More Information: uacatholic.org</li>
                     </ul>
                 </div>
-            </div>
-
-            <div className="row">
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">7.</span>Young Adults at Unleashed Christian Church                    
@@ -117,9 +110,7 @@ function YaGroupArticle(){
                         <li>More Information: faithtucson.org</li>
                     </ul>
                 </div>
-            </div>
 
-            <div className="row">
                 <div className="column" id="rc">
                     <h4>
                         <span className="normalText">9.</span>Young Adult Ministry at St. Thomas the Apostle                    

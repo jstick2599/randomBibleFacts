@@ -105,7 +105,7 @@ const LandingPage = () => {
           <div className="tile" onClick={YaGroupPage}>
             <img src={bibleStudyImage} alt="Open Bible" id="bibleStudy"/>
             <h2 className="aboutUsTitle">Top 10 Christian bible study groups in Tucson, Arizona.</h2>
-            <p className="aboutUsParagraph">If you are interested in finding some bible study groups, then click here.</p>
+            <p className="aboutUsParagraph">If you are interested in finding some young adult bible study groups, then click here.</p>
           </div>
           <div className="tile" onClick={AboutUsPage}>
             <img src={websiteLogo} alt="Website Logo" id="websiteLogo"/>
