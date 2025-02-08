@@ -134,20 +134,26 @@ button:hover {
   text-align: center; /* Centers text */
 
 }
-.tile #bible {
-  width: 100%; /* Ensures image does not exceed container width */
-  height: 30vh; /* Adjust based on available space */
-  object-fit: contain; /* Ensures entire image is visible without cropping */
-  
-  margin-bottom: 5px; /* Reduce space below the image */
-}
+
+
+.tile #bible, 
+.tile #bibleStudy, 
 .tile #websiteLogo {
-  
-  height: 30vh; /*Adjust based on available space */
-  object-fit: contain; /* Ensures entire image is visible without cropping */
-  
+  width: 100%; /* Ensures all images take full width of tile */
+  height: 30vh; /* Consistent height for all images */
+  object-fit: contain; /* Ensures the entire image is visible without cropping */
   margin-bottom: 5px; /* Reduce space below the image */
 }
+.tile #bibleStudy {
+  width: 100%;
+  height: 30vh;
+  object-fit: fill; /* Stretches to fill the space */
+}
+
+
+
+
+
 #websiteLogo {
   transform: scaleX(1.7); /* Stretches the image width-wise */
   transform-origin: center; /* Ensures it scales from the middle */

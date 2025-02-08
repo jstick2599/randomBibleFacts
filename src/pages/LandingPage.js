@@ -6,6 +6,7 @@ import youtubeImage from "../images/youtubeLogo.webp";
 import tiktokImage from "../images/tiktokLogo.png";
 import igImage from "../images/igLogo.png";
 import bible from "../images/bible.webp";
+import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
 
 const LandingPage = () => {
@@ -102,7 +103,7 @@ const LandingPage = () => {
             <p className="aboutUsParagraph">Click here if you are curious about Christianity</p>
           </div>
           <div className="tile" onClick={YaGroupPage}>
-            <img src={bible} alt="Open Bible" id="bible"/>
+            <img src={bibleStudyImage} alt="Open Bible" id="bibleStudy"/>
             <h2 className="aboutUsTitle">Top 10 Christian bible study groups in Tucson, Arizona.</h2>
             <p className="aboutUsParagraph">If you are interested in finding some bible study groups, then click here.</p>
           </div>
@@ -113,12 +114,17 @@ const LandingPage = () => {
           </div>
         </div>
         <div className="socialMedia">
-          <img src={igImage} alt="Instagram Logo" id="igLogo"/>
+          <a href="https://www.instagram.com/versefacts.com_2025/">
+            <img src={igImage} alt="Instagram Logo" id="igLogo"/>
+          </a>
+
           <div className="youtubeDiv">
             <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
           </div>
-          
-          <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
+          <a href="https://www.tiktok.com/@versefacts.com">
+            <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
+          </a>
+
         </div>
         
       </div>
