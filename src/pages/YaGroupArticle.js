@@ -11,7 +11,7 @@ import unleashedChurch from "../images/unleashedChurch.png";
 import faithTucson from "../images/faithTucsonChurch.png";
 import stTucson from "../images/stTucson.jpg"
 import tucsonDiocese from "../images/dioceseOfTucson.png";
-import Ads from "./component/Ads.js";
+import Ads from "../component/Ads.js";
 
 function YaGroupArticle(){
     return(
