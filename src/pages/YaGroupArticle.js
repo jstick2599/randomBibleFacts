@@ -16,7 +16,8 @@ import Ads from "./component/Ads.js";
 function YaGroupArticle(){
     return(
         <div className="yaFullPage">
-            <Ads/>
+            <Ads client="ca-pub-6840780798204022" slot="2345678901" />
+
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
             <div className="yaImage">
                 <img src={bibleStudyArticleImage} alt="Bible Study" id="bibleStudyArticleImage"/>
