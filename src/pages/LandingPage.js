@@ -8,6 +8,7 @@ import igImage from "../images/igLogo.png";
 import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
+import { Helmet } from "react-helmet"; // Importing Helmet
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
