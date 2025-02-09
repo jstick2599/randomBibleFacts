@@ -11,17 +11,12 @@ import unleashedChurch from "../images/unleashedChurch.png";
 import faithTucson from "../images/faithTucsonChurch.png";
 import stTucson from "../images/stTucson.jpg"
 import tucsonDiocese from "../images/dioceseOfTucson.png";
-import { Helmet } from "react-helmet"; // Importing Helmet
+import Ads from "./component/Ads.js";
 
 function YaGroupArticle(){
     return(
         <div className="yaFullPage">
-            <Helmet>
-                <meta name="google-adsense-account" content="ca-pub-6840780798204022" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <meta name="description" content="Learn about VerseFacts.com, a Christian website that shares biblical truth, apologetics, and resources to strengthen your faith." />
-                <title> Tucson Young Adult Groups Article - VerseFacts.com</title>
-            </Helmet>
+            <Ads/>
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
             <div className="yaImage">
                 <img src={bibleStudyArticleImage} alt="Bible Study" id="bibleStudyArticleImage"/>
