@@ -1,6 +1,7 @@
 .subTitle{
     padding-left:10%;
     padding-right:10%;
+    font-weight: normal;
 }
 .bornAgainTitle{
     display: flex;
@@ -34,4 +35,12 @@
     justify-content: center;
 
 
+}
+.baptismDiv{
+    display: flex;
+    justify-content: center;
+}
+#baptizedPic{
+    padding-bottom:.5%;
+    width:35vw; 
 }
