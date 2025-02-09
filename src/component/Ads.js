@@ -1,20 +1,18 @@
-import React from "react";
-import "../styling/Ads.css";
-import { Helmet } from "react-helmet"; // Importing Helmet for SEO and meta tags
-
 import React, { useEffect } from "react";
 import { Helmet } from "react-helmet"; // Importing Helmet for managing head tags
 
 function Ads({ client, slot, format = "auto", style = { display: "block" } }) {
   useEffect(() => {
-    // Ensure the AdSense script is loaded
-    const script = document.createElement("script");
-    script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-    script.async = true;
-    script.onload = () => {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    };
-    document.head.appendChild(script);
+    // Ensure the AdSense script is loaded only once
+    if (typeof window.adsbygoogle === "undefined") {
+      const script = document.createElement("script");
+      script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+      script.async = true;
+      script.onload = () => {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      };
+      document.head.appendChild(script);
+    }
   }, []);
 
   return (
