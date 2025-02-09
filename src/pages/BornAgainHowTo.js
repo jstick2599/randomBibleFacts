@@ -1,8 +1,7 @@
 import React from "react";
 import "../styling/BornAgainHowTo.css";
 import baptism from "../images/claraBaptism.JPG";
-import { Helmet } from "react-helmet"; // Importing Helmet
-
+import { Helmet } from "react-helmet"; // Importing Helmet for SEO and meta tags
 
 function BornAgainHowTo(){
     return(
@@ -10,12 +9,12 @@ function BornAgainHowTo(){
             <Helmet>
                 <meta name="google-adsense-account" content="ca-pub-6840780798204022" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <meta name="description" content="Learn about VerseFacts.com, a Christian website that shares biblical truth, apologetics, and resources to strengthen your faith." />
-                <title>How to become a Christian - VerseFacts.com</title>
+                <meta name="description" content="Learn how to become a Christian with VerseFacts. Discover the three simple steps to start your journey of faith and salvation." />
+                <title>How to Become a Christian - VerseFacts.com</title>
             </Helmet>
             <h1 className="bornAgainTitle">How to Become a Christian in 3 Easy Steps</h1>
             <div className="baptismDiv">
-                <img src={baptism} alt="Receiving baptism" id="baptizedPic"/>
+                <img src={baptism} alt="Receiving baptism" id="baptizedPic" />
             </div>
 
             <div className="bornAgainDiv">
@@ -44,4 +43,4 @@ function BornAgainHowTo(){
         </div>
     )
 }
-export default BornAgainHowTo; 
+export default BornAgainHowTo;
