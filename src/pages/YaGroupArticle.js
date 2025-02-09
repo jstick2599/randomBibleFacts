@@ -16,7 +16,10 @@ function YaGroupArticle(){
     return(
         <div className="yaFullPage">
             <Helmet>
-                <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+                <meta name="google-adsense-account" content="ca-pub-6840780798204022" />
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <meta name="description" content="Learn about VerseFacts.com, a Christian website that shares biblical truth, apologetics, and resources to strengthen your faith." />
+                <title> Tucson Young Adult Groups Article - VerseFacts.com</title>
             </Helmet>
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
             <div className="yaImage">

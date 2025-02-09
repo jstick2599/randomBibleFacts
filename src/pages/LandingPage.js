@@ -80,7 +80,10 @@ const LandingPage = () => {
   return (
     <div className="landingPageWrapper">
       <Helmet>
-        <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+        <meta name="google-adsense-account" content="ca-pub-6840780798204022" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Learn about VerseFacts.com, a Christian website that shares biblical truth, apologetics, and resources to strengthen your faith." />
+        <title>LandingPage - VerseFacts.com</title>
       </Helmet>
 
       <div className="page1">
