@@ -7,6 +7,10 @@ import calvaryChurch from "../images/calvaryTucsonChurch.jpg";
 import mvbcChurch from "../images/mvbcChurch.png";
 import lifePointChurch from "../images/lifePointChurch.webp";
 import uaCatholic from "../images/uaCatholic.webp";
+import unleashedChurch from "../images/unleashedChurch.png";
+import faithTucson from "../images/faithTucsonChurch.png";
+import stTucson from "../images/stTucson.jpg"
+import tucsonDiocese from "../images/dioceseOfTucson.png";
 
 function YaGroupArticle(){
     return(
@@ -119,6 +123,10 @@ function YaGroupArticle(){
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <div className="unleashedChurchDiv">
+                        <img src={unleashedChurch} alt="Unleashed Church logo" id="unleashedChurch"/>
+                    </div>
+                        
                     <h4>
                         <span className="normalText">7.</span>Young Adults at Unleashed Christian Church                    
                     </h4>              
@@ -126,21 +134,30 @@ function YaGroupArticle(){
                         <li>Description: A ministry for individuals aged 18-27, providing a space for support, perspective, and purpose through authentic community.</li>
                         <li>Meeting Time: Thursdays at 6:30 PM</li>
                         <li>Location: 265 W. Valencia Rd., Tucson, AZ 85706</li>
-                        <li>More Information: unleashedchristian.com</li>
+                        <li>More Information:
+                        <a href="https://www.unleashedchristian.com/">
+                        unleashedchristian.com</a> 
+
+                        </li>
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <img src={faithTucson} alt="Faith Tucson Church logo" id="faithTucson"/>
                     <h4>
                         <span className="normalText">8.</span>Young Adults of Faith at Faith Community Church           
                     </h4> 
                     <ul>
                         <li>Description: An active group offering small groups and various activities to help young adults deepen their relationship with God and each other.</li>
                         <li>Contact: Young Adults Pastor</li>
-                        <li>More Information: faithtucson.org</li>
+                        <li>More Information: <a href="https://www.faithtucson.org/">faithtucson.org</a> 
+                        </li>
+          
+
                     </ul>
                 </div>
 
                 <div className="column" id="rc">
+                    <img src={stTucson} alt="Saint Thomas Church logo" id="stTucson"/>
                     <h4>
                         <span className="normalText">9.</span>Young Adult Ministry at St. Thomas the Apostle                    
                     </h4>              
@@ -148,16 +165,19 @@ function YaGroupArticle(){
                         <li>Description: Geared towards individuals in their 20s and 30s, this ministry offers opportunities for prayer, service, and formation within a supportive community.</li>
                         <li>Meeting Time: Thursdays, 6:30 - 7:30 PM</li>
                         <li>Location: Chapel at St. Thomas the Apostle</li>
-                        <li>More Information: statucson.org</li>
+                        <li>More Information: <a href="https://www.statucson.org/">statucson.org</a>  
+                        </li>
                     </ul>
                 </div>
                 <div className="column" id="rc">
+                    <img src={tucsonDiocese} alt="Diocese of Tucson" id="tucsonDiocese"/>
                     <h4>
                         <span className="normalText">10.</span>Young Adult Ministries in the Diocese of Tucson           
                     </h4> 
                     <ul>
                         <li>Description: The Diocese of Tucson hosts various young adult ministries across different parishes, offering diverse opportunities for engagement and spiritual growth.</li>
-                        <li>More Information: diocesetucson.org</li>
+                        <li>More Information: <a href="https://www.diocesetucson.org/">diocesetucson.org</a>
+                        </li>
                     </ul>
                 </div>
                 
