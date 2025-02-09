@@ -23,13 +23,11 @@ function BornAgainHowTo(){
                 <h3>“Lord Jesus, I know that I am a sinner and need Your forgiveness. I believe You died for my sins and rose again. I ask You to come into my life, be my Lord and Savior, and help me live for You. Amen.”</h3>
                 <h3>If you prayed this prayer sincerely, congratulations! You are now a Christian.</h3>
                 <h2 className="nextStep">What’s Next?</h2>
-                <h3>Now that you’ve started your journey with Christ:</h3>
-                <h3>Read the Bible daily to grow in your faith.</h3>
-                <h3>Pray and talk to God regularly.</h3>
-                <h3>Find a Bible-believing church and connect with other Christians.</h3>
-                <h3>Share your faith with others and live out your new life in Christ.</h3>
-                <h3>Becoming a Christian is just the beginning of an incredible relationship with God. He has a great plan for your life!</h3>
-                <h4 className="bornAgainLastSentence">Would you like help finding resources to grow in your faith? Let me know!</h4>
+                <div className="bornAgainBottomSection">
+                    <h3>Now that you’ve started your journey with Christ:</h3>
+                    <h3>Read the Bible daily to grow in your faith. Pray and talk to God regularly. Find a Bible-believing church and connect with other Christians. Share your faith with others and live out your new life in Christ. Becoming a Christian is just the beginning of an incredible relationship with God. He has a great plan for your life!</h3>
+                    <h4 className="bornAgainLastSentence">Would you like help finding resources to grow in your faith? Let me know!</h4>
+                </div>
             </div>
         </div>
     )

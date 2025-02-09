@@ -21,5 +21,17 @@
 .bornAgainLastSentence{
     display: flex;
     justify-content: center;
+    padding-bottom:5%;
 }
-      
+.bornAgainDiv{
+    padding-left:20%;
+    padding-right:20%;
+
+}
+.bornAgainBottomSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
