@@ -107,9 +107,10 @@ button:hover {
 #saguaro {
   visibility: hidden;
   opacity: 0;
-  max-width: clamp(5vw, 10vw, 15vw);
+  max-width: clamp(4vw, 8vw, 12vw);
   transition: transform 2s ease-in-out, opacity 0.5s ease-in-out;
   position: absolute;
+
 }
 .tiles{
 
