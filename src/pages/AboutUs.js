@@ -4,6 +4,9 @@ import "../styling/AboutUs.css";
 function AboutUs(){
     return (
         <div className="aboutUsPage">
+            <Helmet>
+                <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+            </Helmet>
             <div className="video">
                 <video width="600" height="100vh" controls>
                 <source src="/aboutUsVideo.mov" type="video/mp4" />Your browser does not support the video tag.</video>

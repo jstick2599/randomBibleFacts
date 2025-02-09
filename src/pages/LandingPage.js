@@ -79,6 +79,10 @@ const LandingPage = () => {
 
   return (
     <div className="landingPageWrapper">
+      <Helmet>
+        <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+      </Helmet>
+
       <div className="page1">
         <div className="container">
           <div className="titleText">

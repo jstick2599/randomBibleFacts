@@ -6,6 +6,9 @@ import baptism from "../images/claraBaptism.JPG";
 function BornAgainHowTo(){
     return(
         <div className="bornAgainFullPage">
+            <Helmet>
+                <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+            </Helmet>
             <h1 className="bornAgainTitle">How to Become a Christian in 3 Easy Steps</h1>
             <div className="baptismDiv">
                 <img src={baptism} alt="Receiving baptism" id="baptizedPic"/>

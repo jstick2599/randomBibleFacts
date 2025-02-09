@@ -15,6 +15,9 @@ import tucsonDiocese from "../images/dioceseOfTucson.png";
 function YaGroupArticle(){
     return(
         <div className="yaFullPage">
+            <Helmet>
+                <meta name="google-adsense-account" content="ca-pub-6840780798204022"/>
+            </Helmet>
             <h1 className="yaTitle">Top 10 Christian bible study groups in Tucson, Arizona</h1>
             <div className="yaImage">
                 <img src={bibleStudyArticleImage} alt="Bible Study" id="bibleStudyArticleImage"/>
