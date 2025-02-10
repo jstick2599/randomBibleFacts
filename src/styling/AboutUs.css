@@ -28,6 +28,18 @@ video:fullscreen {
     padding-left:2%;
    
     
+} 
+.images{
+    display: flex;
+    flex-direction: row;
 }
+#aboutUsImg{
+    height:30vw;
+    padding-left:20%; 
+    padding-top:.5%;
 
+}
+#cactusImg{
+    width:10vw;
+}
 
