@@ -199,7 +199,7 @@ button:hover {
 }
 
 #igLogo, #tiktokLogo{
-  height:8vw; 
+  height:15vh; 
   /* padding: 3%; */
 }
 #youtubeLogo{
@@ -225,9 +225,30 @@ button:hover {
   .container {
     width: 90vw;
   }
-  .tiles{
+  .tiles {
     display: flex;
     flex-direction: column;
+    align-items: center; /* Ensures tiles are centered */
+    justify-content: center; /* Centers them vertically */
+    width: 100%;
+    margin: 0 auto; /* Ensures full centering */
+  }
+
+  .tile {
+    width: 80vw;
+    height: 85vh;
+    margin: 10px auto; /* Ensures the tile itself is centered */
+  }
+  #youtubeLogo, #igLogo, #tiktokLogo {
+    height: 8vh; /* Ensure consistent height */
+  }
+
+  .youtubeDiv {
+    height: 8vh; /* Match Instagram & TikTok div size */
+    width: 8vh;  /* Keep width equal for uniformity */
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .contentWrapper {
