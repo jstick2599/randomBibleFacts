@@ -127,7 +127,10 @@ const LandingPage = () => {
           </a>
 
           <div className="youtubeDiv">
-            <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
+            <a href="https://www.youtube.com/@VerseFacts-s7g">
+              <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
+            </a>
+            
           </div>
           <a href="https://www.tiktok.com/@versefacts.com">
             <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
