@@ -1,24 +1,29 @@
+
 .video {
-    height: 100vh; 
-    width: 35vw; /* Make it span the 35% full width of its parent */
-    /* Ensures proper centering if needed */
-    /* justify-content: center;
-    align-items: center; */
+  height: 100vh; 
+  width: 35vw; /* Set it to 35% of the parent width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden; /* Prevents overflow issues */
 }
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .aboutUsPage{
     display:flex;
     flex-direction: row;
     font-family: 'Lora', serif;
     align-items: center;
     justify-content: center;
+    align-items: flex-start;
 }
-/* .aboutUsPage {
-    display: flex;
-    flex-direction: column; /* Stack elements vertically on smaller screens */
-    /*  align-items: center;
-    justify-content: flex-start;Ensures content starts from the top */
-   /*  height: 100vh; Ensures the full page height is covered 
-}*/
+
 
 video {
     width: 100%;
@@ -26,15 +31,7 @@ video {
     max-height: 100vh;
     
 }
-/*.video {
-    height: 100vh; 
-    width: 100vw; /* Make it full width on mobile */
-   /* margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}*/
+
 
 video:fullscreen {
     width: 100vw;
@@ -49,16 +46,23 @@ video:fullscreen {
 .images{
     display: flex;
     flex-direction: row;
-}
+    justify-content: center;
+    padding-top:2%;
+} 
 #aboutUsImg{
     height:40vh;
     padding-left:20%; 
-    padding-top:.5%;
 
 }
+
+
+
+
+
 #cactusImg{
     width:10vw;
 }
+
 
 
 

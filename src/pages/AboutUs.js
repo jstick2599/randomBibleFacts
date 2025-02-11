@@ -3,13 +3,22 @@ import React from "react";
 import "../styling/AboutUs.css";
 import aboutUsPic from "../images/aboutUsPic.jpg";
 import cactus from "../images/cactus.png";
+import ReactPlayer from "react-player";
 
 function AboutUs(){
     return (
         <div className="aboutUsPage">
             <div className="video">
-                <video width="600" height="100vh" controls>
-                <source src="/aboutUsVideo.mov" type="video/mp4" />Your browser does not support the video tag.</video>
+                {/* <video width="600" height="100vh" controls> */}
+                {/* <source src="/aboutUsVideo.mov" type="video/mp4" />Your browser does not support the video tag.</video> */}
+                <ReactPlayer 
+                url="https://www.youtube.com/shorts/N20Zvbep-Eo" 
+                controls
+                width="100%"
+                height="100%"
+                className="react-player"
+                />
+
             </div>
             <div className="paragraphs">
                 <div className="images">
