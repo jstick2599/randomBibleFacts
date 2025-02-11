@@ -85,7 +85,7 @@ const LandingPage = () => {
             <p id="verse">{verse}</p>
             <img src={cactusImage} id="saguaro" alt="Cactus" />
           </div>
-          <button onClick={generateVerse}>Generate Verse</button>
+          <button onClick={generateVerse}>Generate Fact</button>
         </div>
       </div>
 
