@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {useNavigate} from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "../styling/LandingPage.css";
 import cactusImage from "../images/cactus.png";
 import croppedCactus from "../images/croppedCactus.png";
@@ -36,6 +36,22 @@ const LandingPage = () => {
       .catch((error) => console.error("Error loading verses:", error));
   }, []);
 
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6840780798204022";
+    script.async = true;
+    script.crossOrigin = "anonymous";
+    document.body.appendChild(script);
+  }, []); // Runs once when component mounts
+
+  useEffect(() => {
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch (e) {
+      console.error("AdSense error:", e);
+    }
+  }, []);
+
   const generateVerse = () => {
     if (verses.length === 0) return;
 
@@ -66,19 +82,11 @@ const LandingPage = () => {
       cactus.style.opacity = 0;
     }, 2000);
   };
+
   const navigate = useNavigate();
-  const BornAgainPage = () => {
-    
-    return (navigate("/BornAgainHowTo"));
-  };
-  const YaGroupPage = () => {
-    
-    return (navigate("/YaGroupArticle"));
-  };
-  const AboutUsPage = () => {
-    
-    return (navigate("/AboutUs"));
-  };
+  const BornAgainPage = () => navigate("/BornAgainHowTo");
+  const YaGroupPage = () => navigate("/YaGroupArticle");
+  const AboutUsPage = () => navigate("/AboutUs");
 
   return (
     <div className="landingPageWrapper">
@@ -105,6 +113,17 @@ const LandingPage = () => {
         </div>
       </div>
 
+      {/* Ad Placement */}
+      <div className="ad-container">
+        <ins className="adsbygoogle"
+          style={{ display: "block" }}
+          data-ad-client="ca-pub-6840780798204022"
+          data-ad-slot="YOUR_AD_SLOT"
+          data-ad-format="auto"
+          data-full-width-responsive="true">
+        </ins>
+      </div>
+
       <div id="nextPage" className="nextPage">
         <div className="tiles">
           <div className="tile" onClick={BornAgainPage}>
@@ -116,9 +135,7 @@ const LandingPage = () => {
               <p>Verse Facts</p>
               <p>February 7th 2025</p>
               <Share url="https://versefacts.com/BornAgainHowTo" title="Check out this amazing article!" body="Check out this article:"/>
-
             </div>
-            
           </div>
           <div className="tile" onClick={YaGroupPage}>
             <img src={bibleStudyImage} alt="Open Bible" id="bibleStudy"/>
@@ -129,7 +146,6 @@ const LandingPage = () => {
               <p>Verse Facts</p>
               <p>February 7th 2025</p>
               <Share url="https://versefacts.com/YaGroupArticle" title="Check out this amazing article!" body="Check out this article:"/>
-
             </div>
           </div>
           <div className="tile" onClick={AboutUsPage}>
@@ -141,7 +157,6 @@ const LandingPage = () => {
               <p>Verse Facts</p>
               <p>February 7th 2025</p>
               <Share url="https://versefacts.com/AboutUs" title="Check out this amazing article!" body="Check out this article:"/>
-
             </div>
           </div>
         </div>
@@ -149,23 +164,18 @@ const LandingPage = () => {
           <a href="https://www.instagram.com/versefacts.com_2025/">
             <img src={igImage} alt="Instagram Logo" id="igLogo"/>
           </a>
-
           <div className="youtubeDiv">
             <a href="https://www.youtube.com/@VerseFacts-s7g">
               <img src={youtubeImage} alt="Youtube Logo" id="youtubeLogo"/>
             </a>
-            
           </div>
           <a href="https://www.tiktok.com/@versefacts.com">
             <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
           </a>
-
         </div>
-        
       </div>
     </div>
   );
 };
 
 export default LandingPage;
-
