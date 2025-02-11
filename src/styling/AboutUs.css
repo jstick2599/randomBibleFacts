@@ -80,17 +80,37 @@ video:fullscreen {
         height:40vh; 
     }
 
-    .video {
+    /* .video {
         height: auto;
         width: 100vw;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
+    .react-player {
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;  /* Ensure it takes up the full width */
+      height: 100%;  /* Ensure it scales correctly */
+  }
+  .video {
+    overflow: visible;  /* Allow overflow on mobile */
+}
+
+  
 
     video {
         width: 100%;
         height: auto;
     }
+    .video {
+      width: 100vw;
+      height: 50vh;  /* Adjust the height */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
 }
 
