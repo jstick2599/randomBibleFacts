@@ -250,10 +250,23 @@ button:hover {
   #youtubeLogo, #igLogo, #tiktokLogo {
     height: 8vh; /* Ensure consistent height */
   }
+  /* Social Media container */
+  .socialMedia {
+    display: flex;
+    flex-direction: column; /* Stack the social media icons vertically */
+    gap: 10px; /* Space between the icons */
+    align-items: center; /* Center the icons */
+  }
+
+  /* Ensure social media icons have a fixed max height */
+  #igLogo, #tiktokLogo, #youtubeLogo {
+    height: 8vh; /* Fixed height to keep them consistent */
+    width: auto; /* Let width scale based on height */
+  }
 
   .youtubeDiv {
     height: 8vh; /* Match Instagram & TikTok div size */
-    width: 8vh;  /* Keep width equal for uniformity */
+    width: auto;  /* Keep width proportional to the height */
     display: flex;
     justify-content: center;
     align-items: center;

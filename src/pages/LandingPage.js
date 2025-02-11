@@ -9,7 +9,6 @@ import igImage from "../images/igLogo.png";
 import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
-import { Helmet } from "react-helmet"; // Importing Helmet
 import Share from "../component/Share";
 
 const LandingPage = () => {
@@ -34,22 +33,6 @@ const LandingPage = () => {
         setVerses(data.verses);
       })
       .catch((error) => console.error("Error loading verses:", error));
-  }, []);
-
-  useEffect(() => {
-    const script = document.createElement("script");
-    script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6840780798204022";
-    script.async = true;
-    script.crossOrigin = "anonymous";
-    document.body.appendChild(script);
-  }, []); // Runs once when component mounts
-
-  useEffect(() => {
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (e) {
-      console.error("AdSense error:", e);
-    }
   }, []);
 
   const generateVerse = () => {
@@ -90,13 +73,6 @@ const LandingPage = () => {
 
   return (
     <div className="landingPageWrapper">
-      <Helmet>
-        <meta name="google-adsense-account" content="ca-pub-6840780798204022" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Learn about VerseFacts.com, a Christian website that shares biblical truth, apologetics, and resources to strengthen your faith." />
-        <title>LandingPage - VerseFacts.com</title>
-      </Helmet>
-
       <div className="page1">
         <div className="container">
           <div className="titleText">
