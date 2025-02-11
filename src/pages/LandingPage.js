@@ -119,6 +119,9 @@ const LandingPage = () => {
             <img src={websiteLogo} alt="Website Logo" id="websiteLogo"/>
             <h2 className="aboutUsTitle">About Us</h2>
             <p className="aboutUsParagraph">Click here to see a video about us with some of our values.</p>
+            <div className="tileDescriptionDiv">
+              <img src={cactusImage} id="saguaroTileImg" alt="Cactus" />
+            </div>
           </div>
         </div>
         <div className="socialMedia">

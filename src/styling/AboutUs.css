@@ -12,6 +12,13 @@
     align-items: center;
     justify-content: center;
 }
+/* .aboutUsPage {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    /*  align-items: center;
+    justify-content: flex-start;Ensures content starts from the top */
+   /*  height: 100vh; Ensures the full page height is covered 
+}*/
 
 video {
     width: 100%;
@@ -19,6 +26,16 @@ video {
     max-height: 100vh;
     
 }
+/*.video {
+    height: 100vh; 
+    width: 100vw; /* Make it full width on mobile */
+   /* margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
 video:fullscreen {
     width: 100vw;
     height: 100vh;
@@ -34,12 +51,42 @@ video:fullscreen {
     flex-direction: row;
 }
 #aboutUsImg{
-    height:30vw;
+    height:40vh;
     padding-left:20%; 
     padding-top:.5%;
 
 }
 #cactusImg{
     width:10vw;
+}
+
+
+
+/* Mobile Scaling */
+@media screen and (max-width: 768px) {
+    /* the below scaling only applies when width is 768px or less */
+    .aboutUsPage {
+        flex-direction: column; /* Stack items vertically */
+        height: auto; /* Prevents forcing height that might cause spacing issues */
+    }
+    .bio{
+        width:100vw; 
+    }
+    #aboutUsImg{
+        height:40vh; 
+    }
+
+    .video {
+        height: auto;
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    video {
+        width: 100%;
+        height: auto;
+    }
 }
 

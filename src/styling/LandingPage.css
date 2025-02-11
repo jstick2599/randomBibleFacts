@@ -112,6 +112,9 @@ button:hover {
   position: absolute;
 
 }
+#saguaroTileImg{
+  max-width: 8vw;
+}
 .tiles{
 
   display: flex;
@@ -236,7 +239,7 @@ button:hover {
 
   .tile {
     width: 80vw;
-    height: 85vh;
+    height: 80vh;
     margin: 10px auto; /* Ensures the tile itself is centered */
   }
   #youtubeLogo, #igLogo, #tiktokLogo {
@@ -257,5 +260,8 @@ button:hover {
 
   #saguaro {
     max-width: 40vw;
+  }
+  #saguaroTileImg{
+    max-width: 70vw;
   }
 }
