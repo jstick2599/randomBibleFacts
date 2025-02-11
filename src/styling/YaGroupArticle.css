@@ -86,3 +86,32 @@ h4{
 }
 
 
+/* Mobile Scaling */
+@media screen and (max-width: 768px) {
+    /* the below scaling only applies when width is 768px or less */
+    #bibleStudyArticleImage{
+        width: 85%;
+        height:50vw; 
+    }
+    .yaSubTitle{
+        padding:0; 
+    }
+    img{
+        width:80vw;
+    }
+    .bibleStudyList {
+        display: flex;
+        flex-direction: column;
+        align-items:flex-start;
+    }
+    #mvbcChurch{
+        width:80vw;
+        /* height:50%; */
+
+    }
+    .column{
+        width:100vw;
+    }
+}
+
+

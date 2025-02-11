@@ -90,10 +90,6 @@ video:fullscreen {
       width: 100%;  /* Ensure it takes up the full width */
       height: 100%;  /* Ensure it scales correctly */
   }
-  .video {
-    overflow: visible;  /* Allow overflow on mobile */
-    width:80vw; 
-}
 
   
 
@@ -107,6 +103,7 @@ video:fullscreen {
       display: flex;
       justify-content: center;
       align-items: center;
+      margin-top: 1%;
   }
   
 }

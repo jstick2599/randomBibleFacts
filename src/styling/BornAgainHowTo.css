@@ -14,9 +14,6 @@
 .bornAgainFullPage{
     font-family: 'Lora', serif;
     color:#333333;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center; */
 
 }
 .bornAgainLastSentence{
@@ -45,13 +42,36 @@
     padding-bottom:.5%;
     width:35vw; 
 }
-/* show christopher this and see if he likes it with a normal font weight. also ask him about saguaro cactus rotating size. It might look better huge*/
-/* .deBold{
-    font-weight: normal;
-} */
 
 /* Mobile Scaling */
 @media screen and (max-width: 768px) {
     /* the below scaling only applies when width is 768px or less */
     
+    .bornAgainDiv{
+        padding:0; 
+    }
+    #baptizedPic{
+        width:70vw;
+    }
+    .deBold {
+        padding-left: 0;  /* Remove any extra padding */
+        text-align: left;  /* Ensure text aligns left */
+        width: 100%;  /* Make sure it takes full width */
+    }
+
+    .bornAgainDiv {
+        padding: 0 5%;  /* Add a little padding for readability */
+    }
+    .subTitle{
+        padding:0;
+    }
+
 }
+
+
+
+/* show christopher this and see if he likes it with a normal font weight. also ask him about saguaro cactus rotating size. It might look better huge*/
+/* .deBold{
+    font-weight: normal;
+} */
+
