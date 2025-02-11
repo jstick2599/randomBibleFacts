@@ -107,13 +107,14 @@ button:hover {
 #saguaro {
   visibility: hidden;
   opacity: 0;
-  max-width: clamp(4vw, 8vw, 12vw);
+  max-width: clamp(4vw, vw, 12vw);
   transition: transform 2s ease-in-out, opacity 0.5s ease-in-out;
   position: absolute;
 
 }
 #saguaroTileImg{
-  max-width: 8vw;
+  max-width: 3vw;
+  padding-right:2%;
 }
 .tiles{
 
@@ -177,7 +178,11 @@ button:hover {
 }
 
 
+.tileDescriptionDiv{
+  display: flex;
+  flex-direction: row; 
 
+}
 
 
 
@@ -262,6 +267,7 @@ button:hover {
     max-width: 40vw;
   }
   #saguaroTileImg{
-    max-width: 70vw;
+    max-width: 20vw;
+    padding-right:2%;
   }
 }
