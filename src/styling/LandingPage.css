@@ -253,7 +253,7 @@ button:hover {
   /* Social Media container */
   .socialMedia {
     display: flex;
-    flex-direction: column; /* Stack the social media icons vertically */
+    flex-direction: row; /* Stack the social media icons vertically */
     gap: 10px; /* Space between the icons */
     align-items: center; /* Center the icons */
   }
