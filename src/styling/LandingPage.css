@@ -115,6 +115,7 @@ button:hover {
 #saguaroTileImg{
   max-width: 3vw;
   padding-right:2%;
+  
 }
 .tiles{
 
@@ -155,7 +156,12 @@ button:hover {
   object-fit: fill; /* Stretches to fill the space */
 }
 
-
+#bibleStudy{
+  border-radius: 2%;
+}
+#bible{
+  border-radius: 7%;
+}
 
 
 
