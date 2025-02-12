@@ -89,6 +89,30 @@ h4{
 /* Mobile Scaling */
 @media screen and (max-width: 768px) {
     /* the below scaling only applies when width is 768px or less */
+    
+    .bibleStudyList {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Ensures centering */
+        width: 100%;
+    }
+    
+    .column {
+        width: 100vw;
+        text-align: center; /* Centers text */
+    }
+
+    .column img {
+        width: 80vw;
+        display: block;
+        margin: 0 auto; /* Centers the image */
+    }
+
+    #mvbcChurch {
+        width: 80vw;
+        display: block;
+        margin: 0 auto;
+    }
     #bibleStudyArticleImage{
         width: 85%;
         height:50vw; 
@@ -96,22 +120,11 @@ h4{
     .yaSubTitle{
         padding:0; 
     }
-    img{
-        width:80vw;
-    }
-    .bibleStudyList {
+    /* .bibleStudyList {
         display: flex;
         flex-direction: column;
         align-items:flex-start;
-    }
-    #mvbcChurch{
-        width:80vw;
-        /* height:50%; */
-
-    }
-    .column{
-        width:100vw;
-    }
+    } */
 }
 
 
