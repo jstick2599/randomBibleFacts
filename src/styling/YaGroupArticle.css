@@ -96,6 +96,18 @@ h4{
         align-items: center; /* Ensures centering */
         width: 100%;
     }
+
+    .bibleStudyList ul {
+        list-style-position: inside; /* Keeps bullets aligned closer to text */
+        text-align: left; /* Ensures text is left-aligned */
+        padding-left: 20px; /* Adjust as needed */
+    }
+    
+    .bibleStudyList li {
+        display: list-item; /* Ensures default list behavior */
+        text-align: left; /* Aligns text left */
+        width: auto; /* Allows content to adjust naturally */
+    }
     
     .column {
         width: 100vw;
@@ -120,11 +132,7 @@ h4{
     .yaSubTitle{
         padding:0; 
     }
-    /* .bibleStudyList {
-        display: flex;
-        flex-direction: column;
-        align-items:flex-start;
-    } */
+
 }
 
 
