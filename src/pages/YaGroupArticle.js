@@ -6,11 +6,11 @@ import cccChurch from  "../images/cccChurch.jpg";
 import calvaryChurch from "../images/calvaryTucsonChurch.jpg";
 import mvbcChurch from "../images/mvbcChurch.png";
 import lifePointChurch from "../images/lifePointChurch.webp";
-import uaCatholic from "../images/uaCatholic.webp";
 import unleashedChurch from "../images/unleashedChurch.png";
 import faithTucson from "../images/faithTucsonChurch.png";
-import stTucson from "../images/stTucson.jpg"
-import tucsonDiocese from "../images/dioceseOfTucson.png";
+import underGround from "../images/underGround.jpg";
+import remnantYa from "../images/remnantYaGroup.jpg";
+import rockChurch from "../images/rockChurch.png";
 import Ads from "../component/Ads.js";
 
 function YaGroupArticle(){
@@ -111,19 +111,24 @@ function YaGroupArticle(){
                     </ul>
                 </div>
                 <div className="column" id="rc">
-                    <img src={uaCatholic} alt="UA Catholic Young Adults" id="uaCatholicChurch"/>
+                    <img src={rockChurch} alt="Rock Church Young Adults" id="rockChurch"/>
                     <h4>
-                        <span className="normalText">6.</span>Young Adult Community at St. Thomas More Catholic Newman Center           
+                        <span className="normalText">6.</span>Rock Church's Young Adults Group          
                     </h4> 
                     <ul>
-                        <li>Description: A community for individuals aged 22-35, offering weekly gatherings and monthly social events to foster faith and fellowship.</li>
-                        <li>Meeting Time: Tuesdays at 7 PM</li>
-                        <li>Location: Bishop Green Hall</li>
+                        <li>Description: A gathering for young adults focusing on deepening diving into the word of God and fellowship with others between 18-30.</li>
+                        <li>Meeting Time: Monday 6pm-9pm</li>
+                        <li>Location: Sahuarita</li>
                         <li>More Information:
-                        <a href="https://www.uacatholic.org/">
-                        uacatholic.org</a> 
+                        <a href="https://www.tros.church/upcoming-events/young-adults-ministry">
+                        rockYaMinistry.org</a> 
                         </li>
                     </ul>
+
+
+
+
+More Information: Young Adults Ministry | The Rock Church of Sahuarita
                 </div>
                 <div className="column" id="rc">
                     <div className="unleashedChurchDiv">
@@ -160,32 +165,48 @@ function YaGroupArticle(){
                 </div>
 
                 <div className="column" id="rc">
-                    <img src={stTucson} alt="Saint Thomas Church logo" id="stTucson"/>
+                    <img src={underGround} alt="Young Adults at Common Ground Underground group" id="underground"/>
                     <h4>
-                        <span className="normalText">9.</span>Young Adult Ministry at St. Thomas the Apostle                    
+                        <span className="normalText">9.</span> Common Ground Young Adult Ministry called The Underground                  
                     </h4>              
                     <ul>
-                        <li>Description: Geared towards individuals in their 20s and 30s, this ministry offers opportunities for prayer, service, and formation within a supportive community.</li>
-                        <li>Meeting Time: Thursdays, 6:30 - 7:30 PM</li>
-                        <li>Location: Chapel at St. Thomas the Apostle</li>
-                        <li>More Information: <a href="https://www.statucson.org/">statucson.org</a>  
+                        <li>Description: A gathering for young adults focusing on deepening faith through studying the bible and fellowship.</li>
+                        <li>Meeting Time: Thursdays, 6:30PM</li>
+                        <li>Location: Sahuarita</li>
+                        <li>More Information: Instagram <a href="https://www.instagram.com/undergroundcgc/">Underground</a>  
                         </li>
+                        <li>
+                             Website: Common Ground <a href="https://cgcsahuarita.org/">https://cgcsahuarita.org/</a>
+                        </li>
+                        
                     </ul>
+
+
                 </div>
                 <div className="column" id="rc">
-                    <img src={tucsonDiocese} alt="Diocese of Tucson" id="tucsonDiocese"/>
+                    <img src={remnantYa} alt="Remnant of Tucson" id="remnantTucson"/>
                     <h4>
-                        <span className="normalText">10.</span>Young Adult Ministries in the Diocese of Tucson           
+                        <span className="normalText">10.</span>Young Adult Ministry at Remnant of Tucson          
                     </h4> 
                     <ul>
-                        <li>Description: The Diocese of Tucson hosts various young adult ministries across different parishes, offering diverse opportunities for engagement and spiritual growth.</li>
-                        <li>More Information: <a href="https://www.diocesetucson.org/">diocesetucson.org</a>
+                        <li>Description: A gathering for college students and young adults focusing on deepening faith through study and fellowship.</li>
+                        <li>Meeting Time: Tuesdays at 7 PM</li>
+                        <li>Location: Centrally Tucson</li>
+                        <li>
+                            Website: Remnant of Tucson  <a href="https://www.remnantoftucson.com/">remnantoftucson.com</a>
                         </li>
+                        <li>
+                            More Information: Instagram <a href="https://www.instagram.com/remnantoftucson/">remnantoftucson</a>
+                        </li>
+
                     </ul>
                 </div>
                 
             </div>
             <h4 id="lastSentence">These groups provide welcoming environments for young adults in Tucson to explore their faith, build lasting relationships, and engage with the community.</h4>
+
+
+
 
             
             
