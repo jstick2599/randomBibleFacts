@@ -2,6 +2,7 @@
 .landingPageWrapper {
   height: 100vh;
   overflow-x: hidden;
+  font-family: 'Lora', serif;
 }
 
 /* Ensure pages take full viewport */
