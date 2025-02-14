@@ -105,12 +105,10 @@ const LandingPage = () => {
           <div className="tile" onClick={BornAgainPage}>
             <img src={bible} alt="Open Bible" id="bible"/>
             <h2 className="aboutUsTitle">How to Become a Christian in 3 Easy Steps</h2>
-            <p className="aboutUsParagraph">Click here if you are curious about Christianity</p>
+            <p className="aboutUsParagraph">Click here if you are curious about Christianity. Becoming a Christian is the most important decision you will ever make. It is not about religion or rituals...</p>
             <div className="tileDescriptionDiv">
-              <img src={croppedCactus} id="saguaroTileImg" alt="Cactus" />
-              <p>Verse Facts</p>
-              <p>February 7th 2025</p>
               <Share url="https://versefacts.com/BornAgainHowTo" title="Check out this amazing article!" body="Check out this article:"/>
+              <p className="verseFacts">Verse Facts 2/7/2025</p>
             </div>
           </div>
           <div className="tile" onClick={YaGroupPage}>
@@ -118,10 +116,8 @@ const LandingPage = () => {
             <h2 className="aboutUsTitle">Top 10 Christian bible study groups in Tucson, Arizona.</h2>
             <p className="aboutUsParagraph">If you are interested in finding some young adult bible study groups, then click here.</p>
             <div className="tileDescriptionDiv">
-              <img src={croppedCactus} id="saguaroTileImg" alt="Cactus" />
-              <p>Verse Facts</p>
-              <p>February 7th 2025</p>
               <Share url="https://versefacts.com/YaGroupArticle" title="Check out this amazing article!" body="Check out this article:"/>
+              <p className="verseFacts">Verse Facts 2/7/2025</p>
             </div>
           </div>
           <div className="tile" onClick={AboutUsPage}>
@@ -129,10 +125,8 @@ const LandingPage = () => {
             <h2 className="aboutUsTitle">About Us</h2>
             <p className="aboutUsParagraph">Click here to see a video about us with some of our values.</p>
             <div className="tileDescriptionDiv">
-              <img src={croppedCactus} id="saguaroTileImg" alt="Cactus" />
-              <p>Verse Facts</p>
-              <p>February 7th 2025</p>
               <Share url="https://versefacts.com/AboutUs" title="Check out this amazing article!" body="Check out this article:"/>
+              <p className="verseFacts">Verse Facts 2/7/2025</p>
             </div>
           </div>
         </div>

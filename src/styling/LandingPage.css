@@ -18,7 +18,6 @@
 
 /* Next Page Styling */
 .nextPage {
-  padding: 2vw;
   background-color: #e0e0e0;
   border-radius: 10px;
 }
@@ -124,8 +123,7 @@ button:hover {
   flex-direction: row;
 }
 .tile{
-  background-color:white; 
-  padding:2%; 
+  background-color:white;  
   border-radius: 3%;
   margin:3%;
   display: inline-block;
@@ -143,31 +141,23 @@ button:hover {
 }
 
 
-.tile #bible, 
-.tile #bibleStudy, 
-.tile #websiteLogo {
-  width: 100%; /* Ensures all images take full width of tile */
-  height: 30vh; /* Consistent height for all images */
-  object-fit: contain; /* Ensures the entire image is visible without cropping */
-  margin-bottom: 5px; /* Reduce space below the image */
-}
-.tile #bibleStudy {
-  width: 100%;
-  height: 30vh;
-  object-fit: fill; /* Stretches to fill the space */
-}
 
-#bibleStudy{
+ 
+.tile #bible, .tile #bibleStudy,
+.tile #websiteLogo {
+  width: 100%; /* Ensures it takes the full width of the tile */
+  height: 30vh; /* Consistent height for all images */
+  object-fit: fill; /* Ensures a good fit without stretching */
+  margin-bottom: 2%;
   border-radius: 2%;
 }
-#bible{
-  border-radius: 7%;
-}
+
+
+
 
 
 
 #websiteLogo {
-  transform: scaleX(1.7); /* Stretches the image width-wise */
   transform-origin: center; /* Ensures it scales from the middle */
 }
 
@@ -175,8 +165,8 @@ button:hover {
 .aboutUsTitle {
   font-size: 1.2rem;
   
-  margin-top: 0px; /* Remove extra space above the title */
-  margin-bottom: 5px; /* Adjust spacing between title and paragraph */
+  margin-top: 0px; 
+  margin-bottom: 0px; 
 }
 
 .aboutUsParagraph {
@@ -187,11 +177,13 @@ button:hover {
 
 .tileDescriptionDiv{
   display: flex;
-  flex-direction: row; 
+  flex-direction: column; 
 
 }
 
-
+.verseFacts{
+  font-size: 12px;
+}
 
 
 
