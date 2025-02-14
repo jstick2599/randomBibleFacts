@@ -31,9 +31,9 @@ const Share = ({ url, title }) => {
         <WhatsappIcon size={32} round />
       </WhatsappShareButton>
 
-      <EmailShareButton url={url} subject={title} body="Check out this article:">
+      {/* <EmailShareButton url={url} subject={title} body="Check out this article:">
         <EmailIcon size={32} round />
-      </EmailShareButton>
+      </EmailShareButton> */}
     </div>
   );
 };
