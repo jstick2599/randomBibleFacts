@@ -137,6 +137,8 @@ button:hover {
   align-items: center; /* Center elements horizontally */
   overflow: hidden; /* Prevents content overflow */
   text-align: center; /* Centers text */
+  border-bottom-right-radius: 0%;
+  border-bottom-left-radius: 0%;
 
 }
 
