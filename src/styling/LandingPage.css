@@ -207,10 +207,11 @@ button:hover {
   gap:20px;
 }
 
-#igLogo, #tiktokLogo, .youtubeLogo{
+#igLogo, #tiktokLogo, #youtubeLogo{
   height:12vh; 
   /* padding: 3%; */
 }
+
 
 #tiktokLogo{
   border-radius: 35%;

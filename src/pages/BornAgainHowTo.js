@@ -37,7 +37,7 @@ function BornAgainHowTo(){
                 <div className="bornAgainBottomSection">
                     <h3 className="deBold">Now that you’ve started your journey with Christ:</h3>
                     <h3 className="deBold">Read the Bible daily to grow in your faith. Pray and talk to God regularly. Find a Bible-believing church and connect with other Christians. Share your faith with others and live out your new life in Christ. Becoming a Christian is just the beginning of an incredible relationship with God. He has a great plan for your life!</h3>
-                    <h4 className="bornAgainLastSentence">Would you like help finding resources to grow in your faith? Let me know!</h4>
+                    {/* <h4 className="bornAgainLastSentence">Would you like help finding resources to grow in your faith? Let me know!</h4> */}
                 </div>
             </div>
         </div>
