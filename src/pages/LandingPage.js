@@ -10,6 +10,7 @@ import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
 import Share from "../component/Share";
+import VisionsOfChrist from "./VisionsOfChrist";
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -70,6 +71,7 @@ const LandingPage = () => {
   const BornAgainPage = () => navigate("/BornAgainHowTo");
   const YaGroupPage = () => navigate("/YaGroupArticle");
   const AboutUsPage = () => navigate("/AboutUs");
+  const VisionsOfChrist = () => navigate("/JesusVisions");
 
   return (
     <div className="landingPageWrapper">
@@ -128,6 +130,15 @@ const LandingPage = () => {
               <Share url="https://versefacts.com/AboutUs" title="Check out this amazing article!" body="Check out this article:"/>
               <p className="verseFacts">Verse Facts 2/7/2025</p>
             </div>
+          </div>
+          <div className="tile" onClick={VisionsOfChrist}>
+
+          </div>
+          <div className="tile">
+            
+          </div>
+          <div className="tile">
+            
           </div>
         </div>
         <div className="socialMedia">
