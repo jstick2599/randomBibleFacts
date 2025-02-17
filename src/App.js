@@ -5,7 +5,7 @@ import BornAgainHowTo from "./pages/BornAgainHowTo";
 import YaGroupArticle from "./pages/YaGroupArticle";
 import AboutUs from "./pages/AboutUs";
 import TopTucsonChurches from "./pages/TopTucsonChurches";
-
+import JesusVisions from "./pages/VisionsOfChrist";
 import "./App.css";
 
 function App() {
@@ -16,6 +16,7 @@ function App() {
         <Route path="/YaGroupArticle" element={<YaGroupArticle />} />
         <Route path="/BornAgainHowTo" element={<BornAgainHowTo />} />
         <Route path="/AboutUs" element={<AboutUs />} />
+        <Route path="/JesusVisions" element={<JesusVisions />} />
         <Route path="/TopTucsonChurches" element={<TopTucsonChurches />} />
       </Routes>
     </Router>
