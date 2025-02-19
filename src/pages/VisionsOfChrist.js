@@ -9,9 +9,6 @@ function VisionsOfChrist(){
         <div className="bornAgainFullPage">
             <title>How to Become a Christian - VerseFacts.com</title>
             <h1 className="bornAgainTitle">How to Become a Christian in 3 Easy Steps</h1>
-            <div className="baptismDiv">
-                <img src={baptism} alt="Receiving baptism" id="baptizedPic" />
-            </div>
             <div className="bornAgainDiv">
                 <h2 className="subTitle">Becoming a Christian is the most important decision you will ever make. It’s not about religion or rituals... it’s about a personal relationship with Jesus Christ. The good news is that God has made it simple. Here are three easy steps to begin your journey of faith:</h2>
                 <h2 className="step">Step 1: Recognize Your Need for a Savior</h2>
