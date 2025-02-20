@@ -1,0 +1,9 @@
+.topDenari, .bottomDenarius{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.content{
+    padding-left: 5%;
+    padding-right: 5%;
+}

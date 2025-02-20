@@ -4,7 +4,7 @@ import Home from "./pages/LandingPage";
 import BornAgainHowTo from "./pages/BornAgainHowTo";
 import YaGroupArticle from "./pages/YaGroupArticle";
 import AboutUs from "./pages/AboutUs";
-import TopTucsonChurches from "./pages/TopTucsonChurches";
+import JesusCoin from "./pages/JesusCoin";
 import JesusVisions from "./pages/HeavenlyVisionsArticle";
 import "./App.css";
 
@@ -17,7 +17,7 @@ function App() {
         <Route path="/BornAgainHowTo" element={<BornAgainHowTo />} />
         <Route path="/AboutUs" element={<AboutUs />} />
         <Route path="/JesusVisions" element={<JesusVisions />} />
-        <Route path="/TopTucsonChurches" element={<TopTucsonChurches />} />
+        <Route path="/JesusCoin" element={<JesusCoin />} />
       </Routes>
     </Router>
   );
