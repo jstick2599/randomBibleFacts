@@ -9,6 +9,7 @@ import igImage from "../images/igLogo.png";
 import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
+import princeOfPeaceImage from "../images/croppedJesusPhoto.png";
 import Share from "../component/Share.js";
 
 
@@ -161,6 +162,13 @@ const LandingPage = () => {
           </div>
           <div className="rows">
             <div className="tile" onClick={VisionsOfChrist}>
+              <img src={princeOfPeaceImage} alt="Depiction of Jesus" id="jesusImage"/>
+              <h2 className="aboutUsTitle">Jesus looks like this?</h2>
+              <p className="aboutUsParagraph">Akiane Kramarik’s Prince of Peace, painted at eight from visions, was confirmed by Colton Burpo as the Jesus he saw in heaven after nearly dying at four. Their stories inspire faith despite skepticism. Both hold firm, sparking divine debate.</p>
+              <div className="tileDescriptionDiv">
+                <Share url="https://versefacts.com/JesusVisions" title="Check out this amazing article!" body="Check out this article:"/>
+                <p className="verseFacts">Verse Facts 2/19/2025</p>
+              </div>
 
             </div>
             <div className="tile">

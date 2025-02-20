@@ -79,7 +79,7 @@ function HeavenlyVisionsArticle() {
 
       {/* Conclusion */}
       <div className="hvSection">
-        <h3>Conclusion</h3>
+        <h3 className="middle">Conclusion</h3>
         <p>
           The convergence of Akiane Kramarik’s vision-driven artwork and Colton Burpo’s near-death experience presents an extraordinary and faith-affirming narrative. While skeptics continue to debate the supernatural elements, their accounts undeniably inspire believers and invite deeper contemplation about the nature of heaven, Jesus, and the mysteries of the divine. Whether one views their experiences as miraculous or coincidental, their stories have left an undeniable imprint on the conversation about faith and the afterlife.
         </p>

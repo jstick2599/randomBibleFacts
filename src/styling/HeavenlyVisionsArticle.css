@@ -9,6 +9,7 @@
     font-family: "Arial", sans-serif;
   }
   
+  
   /* Title */
   .hvTitle {
     font-size: 32px;
@@ -43,8 +44,7 @@
   }
   
   .hvImage img {
-    max-width: 100%;
-    height: auto;
+    height:40vh;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
