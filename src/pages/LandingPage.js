@@ -9,7 +9,8 @@ import igImage from "../images/igLogo.png";
 import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
-import Share from "../component/Share";
+import Share from "../component/Share.js";
+
 
 const LandingPage = () => {
   const [verse, setVerse] = useState("Click the button to get one random Bible fact");
@@ -78,6 +79,7 @@ const LandingPage = () => {
         <p style="color:${selectedVerse.styles.source.color}; font-size:${selectedVerse.styles.source.fontSize}; font-style:${selectedVerse.styles.source.fontStyle};">
           <strong>Source:</strong> ${selectedVerse.source}
         </p>
+        <img src="${selectedVerse.image}" alt="${selectedVerse.title}" style="max-width: 300px; margin-bottom: 10px;" />
       `;
   
       setVerse(formattedContent);
@@ -157,15 +159,17 @@ const LandingPage = () => {
             </div>
 
           </div>
-        <div className="tile" onClick={VisionsOfChrist}>
+          <div className="rows">
+            <div className="tile" onClick={VisionsOfChrist}>
 
-        </div>
-        <div className="tile">
-          
-        </div>
-        <div className="tile">
-          
-        </div>
+            </div>
+            <div className="tile">
+            
+            </div>
+            <div className="tile">
+            
+            </div>
+          </div>
         </div>
         <div className="socialMedia">
           <a href="https://www.instagram.com/versefacts.com_2025/">

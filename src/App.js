@@ -5,7 +5,7 @@ import BornAgainHowTo from "./pages/BornAgainHowTo";
 import YaGroupArticle from "./pages/YaGroupArticle";
 import AboutUs from "./pages/AboutUs";
 import TopTucsonChurches from "./pages/TopTucsonChurches";
-import JesusVisions from "./pages/VisionsOfChrist";
+import JesusVisions from "./pages/HeavenlyVisionsArticle";
 import "./App.css";
 
 function App() {

@@ -1,0 +1,89 @@
+/* Full Page Container */
+.hvFullPage {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #ffffff;
+    color: #333;
+    font-family: "Arial", sans-serif;
+  }
+  
+  /* Title */
+  .hvTitle {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  /* Section */
+  .hvSection {
+    margin-bottom: 30px;
+  }
+  
+  .hvSection h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #34495e;
+    margin-bottom: 15px;
+  }
+  
+  .hvSection p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  /* Image */
+  .hvImage {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .hvImage img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Links (if any) */
+  .hvSection a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+  
+  .hvSection a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Emphasis Styling */
+  .hvSection em {
+    font-style: italic;
+    color: #7f8c8d;
+  }
+  .middle{
+    text-align: center;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 768px) {
+    .hvFullPage {
+      width: 95%;
+      padding: 15px;
+    }
+  
+    .hvTitle {
+      font-size: 28px;
+    }
+  
+    .hvSection h3 {
+      font-size: 20px;
+    }
+  
+    .hvSection p {
+      font-size: 14px;
+    }
+  }
