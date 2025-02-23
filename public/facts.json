@@ -3,7 +3,7 @@
   "verses": [
 
     {
-      "title": "Bible and Hygiene",
+      "title": "1. Bible and Hygiene",
       "verse": {
         "reference": "Leviticus 15:13",
         "text": "\"And when he who has a discharge is cleaned of his discharge, then he shall count for himself seven days for his cleansing, wash his clothes and bathe his body in running water; then he shall be clean.\""
@@ -20,7 +20,7 @@
       }
     },
     {
-      "title": "True Eyewitness Account of Jesus",
+      "title": "2. True Eyewitness Account of Jesus",
       "verse": {
         "reference": "Matthew 26:67-68",
         "text": "'Then they spit in his face and struck him with their fists. Others slapped him and said, 'Prophesy to us, Messiah. Who hit you?'"
@@ -39,14 +39,14 @@
   }
 },
     {
-      "title": "The Bible and the Immune System",
+      "title": "3. The Bible and the Immune System",
       "verse": {
         "reference": "Genesis 17:12 ESV",
         "text": "'He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring.'"
       },
       "fact": "In Genesis the bible commands that male infants be circumcised on the eighth day. Modern medical science has since discovered that this is when prothrombin, a crucial blood-clotting factor, reaches its highest level before declining. Additionally, research has shown that the human immune system is at its strongest on this day.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/washingHands.jpeg",
+      "image":"../images/Baby_Franka.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -55,11 +55,25 @@
         "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
       }
     },
-    {
-  "verses": [
+     {
+      "title": "4. The Bible Knew the Earth Was Round",
+      "verse": {
+        "reference": "Isaiah 40:22",
+        "text": "It is He who sits above the circle of the earth."
+      },
+      "fact": "In Isaiah, it states that God 'sits above the circle of the earth,' revealing the earth’s round shape long before science confirmed it. While many once believed the earth was flat, it was the Bible that inspired explorers like Christopher Columbus. He wrote, 'It was the Lord who put it into my mind. I could feel His hand upon me… there is no question the inspiration came from the Holy Spirit, for He comforted me with rays of marvelous illumination from the Holy Scriptures…' (From his diary, reflecting on his discovery of the New World).",
+      "source": "Journal of the First Voyage & Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Baby_Franka.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+
    
-    { "text":  "3. The Bible and the Immune System. The Bible instructs that male babies are to be circumcised on the eighth day (Genesis 17:12). Medical science has now discovered that this is the day that the coagulating factor in the blood, called prothrombin, is the highest. It reaches its peak on the eighth day, then drops. Medical science has also discovered that this is when the human body's immune system is at its peak." },
-    {
       "text": "4. Isaiah 40:22 (written 2800 years ago): \"It is he that sits upon the circle of the earth.\" The Bible informs us here that the earth is round. At a time when science believed that the earth was flat, it was the Scriptures that inspired Christopher Columbus to sail around the world. He wrote: \"It was the Lord who put it into my mind. I could feel His hand upon me… there is no question the inspiration was from the Holy Spirit because He comforted me with rays of marvelous illumination from the Holy Scriptures…\" (From his diary, in reference to his discovery of \"the New World\")." },
     {
       "text": "5. Job 38:19 (written 3500 years ago): \"Where is the way where light dwells?\" Modern man has only just discovered that light (electromagnetic radiation) has a \"way,\" involving motion traveling at 186,000 miles per second."
