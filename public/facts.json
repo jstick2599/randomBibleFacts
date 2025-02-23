@@ -63,7 +63,24 @@
       },
       "fact": "In Isaiah, it states that God 'sits above the circle of the earth,' revealing the earth’s round shape long before science confirmed it. While many once believed the earth was flat, it was the Bible that inspired explorers like Christopher Columbus. He wrote, 'It was the Lord who put it into my mind. I could feel His hand upon me… there is no question the inspiration came from the Holy Spirit, for He comforted me with rays of marvelous illumination from the Holy Scriptures…' (From his diary, reflecting on his discovery of the New World).",
       "source": "Journal of the First Voyage & Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Baby_Franka.jpg",
+      "image":"../images/earth.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+     {
+      "title": "5. How the Bible Foreshadowed Modern Scientific Discoveries",
+      "verse": {
+        "reference": "Job 38:19",
+        "text": "Where is the way where light dwells?"
+      },
+      "fact": "In Job which was written 3500 years ago, it asks, 'Where is the way where light dwells?' Only in recent times has modern science discovered that light (electromagnetic radiation) has a 'way,' moving at 186,000 miles per second.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/earth.webp",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -74,8 +91,7 @@
     },
 
    
-      "text": "4. Isaiah 40:22 (written 2800 years ago): \"It is he that sits upon the circle of the earth.\" The Bible informs us here that the earth is round. At a time when science believed that the earth was flat, it was the Scriptures that inspired Christopher Columbus to sail around the world. He wrote: \"It was the Lord who put it into my mind. I could feel His hand upon me… there is no question the inspiration was from the Holy Spirit because He comforted me with rays of marvelous illumination from the Holy Scriptures…\" (From his diary, in reference to his discovery of \"the New World\")." },
-    {
+     
       "text": "5. Job 38:19 (written 3500 years ago): \"Where is the way where light dwells?\" Modern man has only just discovered that light (electromagnetic radiation) has a \"way,\" involving motion traveling at 186,000 miles per second."
     },
     {
