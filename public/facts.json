@@ -93,7 +93,7 @@
       "title": "6. Time, Space, Matter, Power, and Motion",
       "verse": {
         "reference": "Genesis 1:1,3",
-        "text": "In the beginning God created the Heaven and the earth... And the Spirit of God moved upon the face of the waters."
+        "text": "God created the Heaven and the earth... And the Spirit of God moved upon the face of the waters."
       },
       "fact": "In Genesis which was written 3,450 years ago says, 'In the beginning God created the Heaven and the earth... And the Spirit of God moved upon the face of the waters.' Modern science describes the universe using five concepts: time, space, matter, power, and motion. The Bible aligns perfectly with these ideas: 'In the beginning' (time), 'God created' (power), 'the Heaven' (space), 'the earth' (matter), and 'the Spirit of God moved' (motion) upon the waters.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
@@ -106,17 +106,26 @@
         "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
       }
     },
+    {
+      "title": "7.  Why did the dinosaur disappear?",
+      "verse": {
+        "reference": "Job 40:15-24 (KJV)",
+        "text": "Behold now behemoth, which I made with thee; he eateth grass as an ox. Lo now, his strength is in his loins, and his force is in the navel of his belly. He moveth his tail like a cedar: the sinews of his stones are wrapped together. His bones are as strong pieces of brass; his bones are like bars of iron. He is the chief of the ways of God: he that made him can make his sword to approach unto him. Surely the mountains bring him forth food, where all the beasts of the field play. He lieth under the shady trees, in the covert of the reed, and fens. The shady trees cover him with their shadow; the willows of the brook compass him about. Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth. He taketh it with his eyes: his nose pierceth through snares.",
+      },
+      "fact": "The Bible describes a mysterious creature called "Behemoth," which has puzzled modern scientists with its incredible features—features that don’t perfectly match any known animal today. Written over 3,500 years ago, this account comes straight from God’s own words to Job, detailing a massive, plant-eating beast with strength in its hips, a tail like a cedar tree, bones as strong as brass and iron, and a habitat among shady trees and rivers. It could drink vast amounts of water, even trusting it could "draw up the Jordan" into its mouth, and its nose could pierce snares. Despite its grandeur as the "chief of the ways of God," the text hints that God, its Creator, allowed it to vanish from the earth. While some speculate it could be a dinosaur or an ancient megafauna, its extinction remains a mystery that science can’t fully unravel, yet the Bible boldly preserves its memory.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
 
    
-     
-      "text": "5. Job 38:19 (written 3500 years ago): \"Where is the way where light dwells?\" Modern man has only just discovered that light (electromagnetic radiation) has a \"way,\" involving motion traveling at 186,000 miles per second."
-    },
-    {
-      "text": "6.  Genesis 1:1,3 (written 3,450 years ago): \"In the beginning God created the Heaven and the earth...And the Spirit of God moved upon the face of the waters.\" Science expresses the universe in five terms: time, space, matter, power and motion. \"In the beginning (time) God created (power) the Heaven (space) and the earth (matter)...And the Spirit of God moved (motion) upon the face of the waters.\""
-    },
-    {
-      "text": "7.  Why did the dinosaur disappear? This is something that has modern science mystified, but the Bible may have the answer (written 3500 years ago. God Himself is speaking): 10 Scientific Facts in the Bible Scientific 4/3/01 10:47 AM Page 10 \"Behold now behemoth, which I made with thee; he eats grass as an ox. Lo now, his strength is in his loins, and his force is in the navel of his belly. He moves his tail like a cedar: the sinews of his stones are wrapped together. His bones are as strong pieces of brass; his bones are like bars of iron. He is the chief of the ways of God: he that made him can make his sword to approach unto him. Surely the mountains bring him forth food, where all the beasts of the field play. He lies under the shady trees, in the covert of the reed, and fens. The shady trees cover him with their shadow; the willows of the brook compass him about. Behold, he drinks up a river, and hastens not: he trusts that he can draw up Jordan into his mouth. He takes it with his eyes: his nose pierces through snares\" (Job 40:15-24). This was the Largest of all creatures He made. It was plant-eating (herbivorous). It had its strength in its hips. Its tail was like a large tree (a cedar). It had very strong bones. Its habitat was among the trees. Drank massive amounts of water. His nose pierced through snares. Then Scripture says, \"…He that made him can make his sword approach to him.” In other words, God caused this, the largest of all the creatures He had made, to become extinct\""
-    },
+
     {
       "text": "8.  Psalm 8:8: \"And the fish of the sea, and whatsoever passes through the paths of the seas.\" What does the Bible mean by “paths” of the seas? The sea is just a huge mass of water, how then could it have “paths?” Man discovered the existence of ocean currents in the 1850’s, but the Bible declared the science of oceanography 2,800 years ago. Matthew Maury (1806- 1873) is considered to be the father of oceanography. He was bedridden during a serious illness and asked his son to read a portion of the Bible to him. While listening, he noticed the expression “paths of the sea.” Upon his recovery, Maury took God at His word and went looking for these paths. His book on oceanography is still considered a basic text on the subject and is still used in universities."
     },
