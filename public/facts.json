@@ -123,24 +123,110 @@
         "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
       }
     },
+      {
+      "title": "8. The Currents and Paths of the Sea",
+      "verse": {
+        "reference": "Psalm 8:8",
+        "text": "\"And the fish of the sea, and whatsoever passes through the paths of the seas.\"",
+      },
+      "fact": "What does the Bible mean by "paths" of the seas? The sea is a vast mass of water, so how could it have "paths"? Humans discovered ocean currents in the 1850s, yet the Bible mentioned the science of oceanography 2,800 years ago. Matthew Maury (1806–1873), considered the father of oceanography, made a significant breakthrough. While bedridden during a serious illness, he asked his son to read a portion of the Bible to him. Maury noticed the phrase "paths of the sea." After recovering, he took God's word literally and set out to find these paths. His book on oceanography remains a foundational text on the subject and is still used in universities today.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "9. Jonah’s Depths: Ancient Wisdom and Modern Oceanography",
+      "verse": {
+        "reference": "Jonah 2:6",
+        "text": " /"I went down to the bottoms of the mountains; the earth with its bars was around me forever; yet you have brought my life up from corruption, O Lord my God./"",
+      },
+      "fact": " When Jonah was in the depths of the ocean, he spoke of descending to the "bottoms of the mountains." Only in recent years has humanity discovered the existence of mountains on the ocean floor.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+    {
+      "title": "10. The Hydrologic Cycle: Biblical Insight Before Scientific Discovery",
+      "verse": {
+        "reference": "Amos 9:6",
+        "text": "/"He… calls for the waters of the sea and pours them out upon the face of the earth; the Lord is His name./"",
+      },
+      "fact": " The Mississippi River alone discharges over six million gallons of water per second into the Gulf of Mexico. Where does all that water go? This is just one of thousands of rivers worldwide. The answer lies in the hydrologic cycle, a concept not fully understood until the sixteenth and seventeenth centuries—approximately 2,500 years after the Bible described God taking the waters of the sea and pouring them out upon the earth.",
+      "source": "Ray Comfort: Scientific Facts of the Bible pg4",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+      {
+      "title": "11. Ancient Wisdom and Modern Science: The Earth’s Rotation and the Potter’s Wheel",
+      "verse": {
+        "reference": "Job 38:12, 14",
+        "text": " \"Have you commanded the morning since your days; and caused the dayspring to know his place; that it might take hold of the ends of the earth, that the wicked might be shaken out of it? It [the earth] is turned as clay to the seal; and they stand as a garment.\"",
+      },
+      "fact": "Written 3,500 years ago, God Himself says: Modern science has since understood that the earth’s rotation on its axis is responsible for the sun’s rising and setting. The imagery here is that of a vessel of clay being turned on the potter’s wheel—an accurate analogy for the earth’s rotation.",
+      "source": "Ray Comfort: Scientific Facts of the Bible pg4",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+      {
+      "title": "12. Science and Scripture: The Sun’s Journey Through Space",
+      "verse": {
+        "reference": "Psalm 19:4-6",
+        "text": " In them has He set a tabernacle for the sun, which is as a bridegroom coming out of his chamber, and rejoices as a strong man to run a race. His [the sun’s] going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+      },
+      "fact": "Bible critics have mocked these verses, claiming they suggest the sun revolves around the earth. Science once taught that the sun was stationary. However, it was later discovered that the sun is actually moving through space at approximately 600,000 miles per hour. It follows a 'circuit,' as the Bible describes. This circuit is so vast that it would take around 200 million years to complete one orbit. ",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+     {
+      "title": "13. ",
+      "verse": {
+        "reference": " ",
+        "text": " ",
+      },
+      "fact": " ",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
 
-   
-
-    {
-      "text": "8.  Psalm 8:8: \"And the fish of the sea, and whatsoever passes through the paths of the seas.\" What does the Bible mean by “paths” of the seas? The sea is just a huge mass of water, how then could it have “paths?” Man discovered the existence of ocean currents in the 1850’s, but the Bible declared the science of oceanography 2,800 years ago. Matthew Maury (1806- 1873) is considered to be the father of oceanography. He was bedridden during a serious illness and asked his son to read a portion of the Bible to him. While listening, he noticed the expression “paths of the sea.” Upon his recovery, Maury took God at His word and went looking for these paths. His book on oceanography is still considered a basic text on the subject and is still used in universities."
-    },
-    {
-      "text": "9. Jonah 2:6 (written 2,800 years ago): \"I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet have you brought up my life from corruption, O LORD my God.\" When Jonah was in the depths of the ocean, he spoke of going down to the “bottoms of the mountains.” Only in recent years has man discovered that there are mountains on the ocean floor"
-    },
-    {
-      "text": "10. Amos 9:6 (written 2,800 years ago): \"He…calls for the waters of the sea, and pours them out upon the face of the earth; the Lord is His name.\" 12 Scientific Facts in the Bible Scientific 4/3/01 10:47 AM Page 12 The Mississippi River dumps over six million gallons of water per second into the Gulf of Mexico. Where does all that water go? That’s just one of thousands of rivers. The answer lies in the hydrologic cycle, something that was not fully accepted until the sixteenth and seventeenth centuries, 2500 years after the Bible said that God takes the waters of the sea, and pours them upon the face of the earth"
-    },
-    {
-    "text": "11. Job 38:12, 14, (written 3500 years ago) God Himself says: \"Have you commanded the morning since your days; and caused the dayspring to know his place; that it might take hold of the ends of the earth, that the wicked might be shaken out of it? It [the earth] is turned as clay to the seal; and they stand as a garment.\" Modern science has come to understand that the earth’s rotation on its axis is responsible for the sun’s rising and setting. The picture here is of a vessel of clay being turned or rotated upon the potter’s wheel—an accurate analogy of the earth’s rotation."
-  },
-  {
-    "text": "12. Psalm 19:4-6: “In them has He set a tabernacle for the sun, which is as a bridegroom coming out of his chamber, and rejoices as a strong man to run a race. His [the sun’s] going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.” Bible critics have scoffed at these verses, saying that they teach that the sun revolves around the earth. Science told them that the sun was stationary. Then they discovered that the sun is in fact moving through space at approximately 600,000 miles per hour. It is traveling through the heavens and has a \"circuit\" just as the Bible says. It is estimated that its circuit is so large, it would take 200 million years to complete one orbit."
-  },
+    
   {
     "text": "13. Job 38:22 (written 3,500 years ago). God says: \"Have you entered into the treasures of the snow?\" It wasn’t until the advent of the microscope that man discovered that each and every single snowflake is uniquely a symmetrical “treasure.\""
   },
