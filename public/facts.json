@@ -515,12 +515,182 @@
       }
     },
  {
-      "title": "31. "
+      "title": "31. The Bible Speaks of One Common Ancestor"
       "verse": {
         "reference": ".",
         "text": ".",
       },
-      "fact": ""Slight variations in physical laws such as gravity or electromagnetism would make life impossible... The necessity to produce life lies at the center of the universe's whole machinery and design." — John Wheeler, Princeton University professor of physics (Reader's Digest, September 1986). Even evolutionist Stephen Hawking, regarded as one of the most renowned scientists since Albert Einstein, admits, "The universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on..." — Austin American Statesman, October 19, 1997.",
+      "fact": ""Researchers suggest that virtually all modern men—99% of them, according to one scientist—are closely related genetically and share genes with one male ancestor, referred to as 'Y-chromosome Adam.' We are discovering that humans have very shallow genetic roots that trace back to one recent ancestor... This points to an origin in a specific location on the globe, from which humans spread out." — U.S. News & World Report, December 4, 1995.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+ {
+      "title": "32. The Bible and the Universal Flood"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ""Approximately 85% of the Earth's rock surface consists of sedimentary rock, suggesting that at some point in the past, the world was covered by water." — Peter and Paul Lalonde, 301 Startling Proofs & Prophecies",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+ {
+      "title": "33. The Law of Probabilities Confirms Genesis"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ""The chance that higher life forms could have emerged through evolution is comparable to the chance that a tornado sweeping through a junkyard might assemble a Boeing 747 from the materials there." "The likelihood of life forming from inanimate matter is one in 10^40,000... This probability is large enough to dismiss Darwin and the entire theory of evolution. There was no primeval soup, either on this planet or any other, and if the beginnings of life were not random, they must have been the result of purposeful intelligence."— Sir Fred Hoyle, professor of astronomy, Cambridge University",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "34. Genesis Explains the Origin of the Sexes"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Almost all forms of complex life, including horses, dogs, humans, moths, monkeys, fish, elephants, and birds, have both male and female. The male needs the female to reproduce, and the female needs the male. Life cannot continue without both. The Bible tells us that "he who made them at the beginning made them male and female" (Matthew 19:4). But if evolution is true, which came first according to evolutionary theory? If a male existed before a female, how did the male reproduce without a female? How is it possible for both a male and a female to have spontaneously appeared, yet possess complex, complementary reproductive systems? And if each sex could reproduce independently, why—and how—would they develop reproductive systems that require both sexes for survival?",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "35. Genesis and the Universe"
+      "verse": {
+        "reference": "Genesis 1:1-2",
+        "text": ""In the beginning God created the heaven and the earth... And the Spirit of God moved upon the face of the waters."",
+      },
+      "fact": "Science describes the universe in five terms: time, space, matter, power, and motion. Genesis 1:1-2 perfectly conveys these concepts to the Hebrews in 1450 B.C.: "In the beginning [time] God created [power] the heaven [space] and the earth [matter]... And the Spirit of God moved [motion] upon the face of the waters." The first thing God reveals to humanity is that He controls every aspect of the universe.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "36. Genesis Sets Humanity Apart from the Animals "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "The Bible teaches us that animals are created "without understanding," whereas we, as humans, are made in God's "image." We are not simply a more advanced species in an evolutionary timeline; rather, we possess an awareness of our existence. While God is the "I AM," we know that "we are." This consciousness sets us apart from animals, as we uniquely understand our being. In addition to this self-awareness, we have a deep, inherent ability to appreciate God's creation. No animal stands in awe of a sunset or the vastness of the Grand Canyon. No animal takes joy in the beauty of music or organizes itself into an orchestra to create harmony. Animals do not establish court systems or deliver justice to one another. We are moral beings, capable of reasoning and ethics. While animals follow instincts to build nests or engage in other behaviors, humans uncover the mysteries of science—such as the principles of electricity and aerodynamics—that allow us to soar across the world. We also possess the unique ability to discover and utilize the natural resources of gold, silver, diamonds, and oil for our benefit. Above all, only humans have the capacity to recognize and appreciate God for this magnificent creation and to respond to His love.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "37. Scientists Who Believed in the Bible"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Many of the pioneering scientists who laid the foundations of key scientific disciplines were creationists. Consider the following examples: Physics: Isaac Newton, Michael Faraday, James Clerk Maxwell, Lord Kelvin; Chemistry: Robert Boyle, John Dalton, William Ramsay; Biology: John Ray, Carl Linnaeus, Gregor Mendel, Louis Pasteur; Geology: Nicolaus Steno, Samuel Woodward, David Brewster, Louis Agassiz; Astronomy: Johannes Kepler, Galileo Galilei, William Herschel, Walter Maunder. These men, along with many others, were creationists, not evolutionists. Their names are inextricably linked to the birth of modern science. For them, science was a noble pursuit, one devoted to "thinking God’s thoughts after Him." — Henry M. Morris and Gary E. Parker, What is Creation Science?",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "38. Arthur H. Compton"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ""Science provides a glimpse into God’s purpose in nature. The remarkable world of atoms and radiation itself points to a purposeful creation, suggesting the existence of God and an intelligent purpose behind everything. An orderly universe bears witness to the greatest truth ever spoken: 'In the beginning, God...'"— Arthur H. Compton, Nobel Prize in Physics winner",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "39. Needs to be Added Still"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ".",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "40. Joseph Lister (1827–1912) "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Joseph Lister, the founder of antiseptic surgical techniques, made groundbreaking contributions to medical science that have undoubtedly saved countless lives, second only to those of Louis Pasteur. Like Pasteur, Lister was a Christian and openly stated, "I am a believer in the fundamental doctrines of Christianity."",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "41. Blaise Pascal (1623–1662)) "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Blaise Pascal, one of history's greatest mathematicians, made foundational contributions to hydrostatics, hydrodynamics, differential calculus, and the theory of probability. He is also well-known for his "Wager of Pascal," which can be summarized as follows: How can anyone lose by choosing to be a Christian? If, after death, there is no God and his faith was in vain, he loses nothing—indeed, he has lived a happier life than his non-believing peers. However, if there is a God, and heaven and hell exist, then he gains heaven, while his skeptical friends lose everything in hell.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
       "image":"../images/Light_shining1.jpg",
       "styles": {
@@ -533,36 +703,8 @@
     },
 
   
-  {
-    "text": "31: The Bible Speaks of One Common Ancestor \"Researchers suggest that virtually all modern men— 99% of them, says one scientist—are closely related genetically and share genes with one male ancestor, dubbed ‘Y-chromosome Adam.’ We are finding that humans have very, very shallow genetic roots which go back very recently to one ancestor. . . That indicates that there was an origin in a specific location on the globe, and then it spread out from there.\" (U.S. News & World Report, December 4, 1995)"
-  },
-  {
-    "text": "32: The Bible and the Universal Flood \"About 85% of the rock surface around the world is made up of sedimentary rock, indicating that at some time in the past, the world was covered by water.\" Peter and Paul Lalonde, 301 Startling Proofs & Prophecies"
-  },
-  {
-    "text": "33: Law of Probabilities Confirms Genesis \"The chance that higher life forms might have emerged in this way [through evolution] is comparable to the chance that a tornado sweeping through a junkyard might assemble a Boeing 747 from the materials therein.\" \"The likelihood of the formation of life from inanimate matter is one out of 1040,000. . . It is big enough to bury Darwin and the whole theory of evolution. There was no primeval soup, neither on this planet nor on any other, and if the beginnings of life were not random, they must therefore have been the product of purposeful intelligence.\" Sir Fred Hoyle, professor of astronomy, Cambridge University"
-  },
-  {
-    "text": "34: Genesis Explains the Origin of Sexes Almost all forms of complex life have both male and female—horses, dogs, humans, moths, monkeys, fish, elephants, birds, etc. The male needs the female to reproduce, and the female needs the male to reproduce. One cannot carry on life without the other. The Bible tells us that “he who made them at the beginning made them male and female” (Matthew 19:4). But if evolution is true, which then came first according to the evolutionary theory? If a male came into being before a female, how did the male of each species reproduce without females? How is it possible that a male and a female each spontaneously came into being, yet they have complex, complementary reproductive systems? If each sex was able to reproduce without the other, why (and how) would they have developed a reproductive system that requires both sexes in order for the species to survive?"
-  },
-  {
-    "text": "35: Genesis and the Universe Science expresses the universe in five terms: time, space, matter, power, and motion. Genesis 1:1,2 perfectly revealed such truths to the Hebrews in 1450 B.C.: \"In the beginning [time] God created [power] the heaven [space] and the earth [matter]. . . And the Spirit of God moved [motion] upon the face of the waters.\" The first things God tells man is that He controls all aspects of the universe."
-  },
-  {
-    "text": "36: Genesis Differentiates Man from the Animals The Bible tells us that animals are created \"without understanding.\" We are made in God’s \"image.\" We aren’t merely a higher form of species on the evolutionary scale. As human beings, we are aware of our \"being.\" God is \"I AM,\" and we know that \"we are.\" We have understanding that we exist. Among other unique characteristics, we have an innate ability to appreciate God’s creation. What animal gazes with awe at a sunset, or at the magnificence of the Grand Canyon? What animal obtains joy from the sounds of music or takes the time to form itself into an orchestra to create and harmonize music? What animal among the beasts sets up court systems and apportions justice to its fellow creatures? We are moral beings. While birds and other creatures have instincts to create (nests, etc.), we have the ability to uncover the hidden laws of electricity. We can utilize the law of aerodynamics to transport ourselves around the globe. We also have the God-given ability to appreciate the value of creation. We unearth the hidden treasures of gold, silver, diamonds, and oil and make use of them for our own benefit. Only humans have the unique capability to appreciate God for this incredible creation and to respond to His love."
-  },
-  {
-    "text": "37: Scientists Who Believed the Bible \"Many of the great scientists of the past who founded and developed the key disciplines of science were creationists. Note the following sampling: Physics: Newton, Faraday, Maxwell, Kelvin Chemistry: Boyle, Dalton, Ramsay Biology: Ray, Linnaeus, Mendel, Pasteur Geology: Steno, Woodward, Brewster, Agassiz Astronomy: Kepler, Galileo, Herschel, Maunder “These men, as well as scores of others who could be mentioned, were creationists, not evolutionists, and their names are practically synonymous with the rise of modern science. To them, the scientific enterprise was a high calling, one dedicated to ‘thinking God’s thoughts after Him.’\" Henry M. Morris and Gary E. Parker, What is Creation Science?"
-  },
-  {
-    "text": "38: Arthur H. Compton \"Science is the glimpse of God’s purpose in nature. The very existence of the amazing world of the atom and radiation points to a purposeful creation, to the idea that there is a God and an intelligent purpose back of everything . . . An orderly universe testifies to the greatest statement ever uttered: ‘In the beginning, God . . .’\" Arthur H. Compton, winner of the Nobel Prize in Physics"
-  },
-  {
-    "text": "39: Sir Isaac Newton Sir Isaac Newton (1642–1662) considered his theological writings more important than his scientific writings. He stated, \"There is a Being who made all things, who holds all things in His power, and is therefore to be feared.\" He also wrote, \"All material things seem to have been composed of the hard and solid particles above-mentioned, variously associated in the first creation by the counsel of an intelligent Agent. For it became Him who created them to set them in order. And if He did so, it’s unphilosophical to seek for any other origin of the world, or to pretend that it might arise out of a chaos by the mere laws of nature.\""
-  },
-  {
-    "text": "40: Joseph Lister (1827–1912) founded antiseptic surgical methods. Lister’s contributions to medical science have probably led to more lives being saved through modern medicine than the contributions of anyone else except Pasteur. Like Louis Pasteur, Lister was a Christian. He wrote, 'I am a believer in the fundamental doctrines of Christianity.'"
-  },
+ 
+ 
   {
     "text": "41: Blaise Pascal (1623–1662) was one of history’s greatest mathematicians. He laid the foundations for hydrostatics, hydrodynamics, differential calculus, and the theory of probability. He is famous for the 'Wager of Pascal,' paraphrased as follows: How can anyone lose who chooses to be a Christian? If, when he dies, there turns out to be no God and his faith was in vain, he has lost nothing—in fact, has been happier in life than his non-believing friends. If, however, there is a God and a heaven and hell, then he has gained heaven and his skeptical friends will have lost everything in hell!"
   },
