@@ -701,16 +701,43 @@
         "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
       }
     },
-
+{
+      "title": "42. Sir John Frederick Herschel"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Sir John Frederick Herschel, an English astronomer who discovered over 500 stars, once said, "All human discoveries seem to be made only for the purpose of confirming more and more strongly the truths that come from on high and are contained in the Sacred Writings." His father, Sir William Herschel, also a celebrated astronomer, wisely remarked, "The undevout astronomer must be mad."",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "43. "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Sir John Frederick Herschel, an English astronomer who discovered over 500 stars, once said, "All human discoveries seem to be made only for the purpose of confirming more and more strongly the truths that come from on high and are contained in the Sacred Writings." His father, Sir William Herschel, also a celebrated astronomer, wisely remarked, "The undevout astronomer must be mad."",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
   
  
- 
-  {
-    "text": "41: Blaise Pascal (1623–1662) was one of history’s greatest mathematicians. He laid the foundations for hydrostatics, hydrodynamics, differential calculus, and the theory of probability. He is famous for the 'Wager of Pascal,' paraphrased as follows: How can anyone lose who chooses to be a Christian? If, when he dies, there turns out to be no God and his faith was in vain, he has lost nothing—in fact, has been happier in life than his non-believing friends. If, however, there is a God and a heaven and hell, then he has gained heaven and his skeptical friends will have lost everything in hell!"
-  },
-  {
-    "text": "42: Sir John Frederick Herschel, an English astronomer who discovered over 500 stars, stated: 'All human discoveries seem to be made only for the purpose of confirming more and more strongly the truths that come from on high and are contained in the Sacred Writings.' His father, Sir William Herschel, also a renowned astronomer, rightly insisted, 'The undevout astronomer must be mad.'"
-  },
+
   {
     "text": "43: Albert Einstein was not an atheist as some professing atheists claim. He didn’t accept the God of the Bible, but he wasn’t a fool. He knew that there was a Creator. Look at his words about faith and science: 'Science can only be created by those who are thoroughly imbued with the aspiration toward truth and understanding. This source of feeling, however, springs from the sphere of religion. To this there also belongs the faith in the possibility that the regulations valid for the world of existence are rational, that is, comprehensible to reason. I cannot conceive of a genuine scientist without that profound faith.'"
   },
