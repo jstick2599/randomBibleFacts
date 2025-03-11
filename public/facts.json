@@ -277,12 +277,250 @@
       }
     },
   {
-      "title": "17. ",
+      "title": "17.Stretching the Heavens: Ancient Scripture Meets Modern Cosmology ",
+      "verse": {
+        "reference": "Isaiah 40:22 (written 2,800 years ago)",
+        "text": ""It is He who stretches out the heavens like a curtain and spreads them out as a tent to dwell in."",
+      },
+      "fact": "Modern science has come to recognize that the universe is expanding—essentially "stretching out." Remarkably, Scripture references God stretching out the heavens like a curtain at least seven times, aligning with this concept of cosmic expansion.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "18. A Treasury of Scientific Insight ",
+      "verse": {
+        "reference": "The Book of Job (1520 B.C.) ",
+        "text": ".",
+      },
+      "fact": ""The careful study of the Book of Job, alongside the latest scientific findings, has solidified my belief that the Bible is a divinely inspired work, authored by the same One who created the stars."—Charles Burckhalter, Chabot Observatory ",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "19. The Book of Job and the Weight of Air and Water",
+      "verse": {
+        "reference": "Job 28:25",
+        "text": "When he gave to the wind its weight and apportioned the waters by measure..",
+      },
+      "fact": "Job 28:25 reveals that the wind has 'a weight,' a fact stated in Scripture long before science confirmed in the sixteenth century that air possesses mass. The Bible also notes the weight of water, highlighting its significance. With vast amounts of water covering the earth, the gravitational pull of the sun and moon is perfectly balanced. The water absorbs and disperses this energy, its weight meticulously calibrated." —Richard Gunther  ",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "20.The Book of Job and the Earth’s Rotation ",
+      "verse": {
+        "reference": " Job 38:12,14",
+        "text": ""Have you ever commanded the morning or shown the dawn its place? … It [the earth] is turned as clay to the seal."",
+      },
+      "fact": "For centuries, scientists held a geocentric view, believing the sun orbited a stationary earth to create day and night. Today, we understand that the earth’s rotation on its axis causes the sun to rise and set. Yet, over 4,000 years ago, as it says in Job, the earth is described as being turned like clay on a seal. This imagery evokes a clay vessel being spun on a potter’s wheel—a striking and accurate depiction of the earth’s rotation.   ",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "21. The Book of Job and the Springs of the Sea ",
+      "verse": {
+        "reference": "Job 38:16",
+        "text": ""Have you entered into the springs of the sea, or walked in the recesses of the deep?"",
+      },
+      "fact": ""Modern deep-sea diving cameras have uncovered remarkable hot-water vents on the ocean floor—‘the springs of the sea,’ referred to in Job. These thermal vents emit vast quantities of mineral-rich, superheated water—springs in the depths of darkness."— Richard Gunther",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "22. The Book of Job and Light ",
+      "verse": {
+        "reference": "Job 38:24",
+        "text": ""What is the way to the place where the light is distributed, or where the east wind is scattered upon the earth?"",
+      },
+      "fact": ""Sir Isaac Newton studied light and found that white light is composed of seven colors, which can be 'separated' from the white (as mentioned in Job 38:24) and then recombined to form white light once more. This discovery was made by science in 1650."— Richard Gunther",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "23.The Book of Job and the Way of Light ",
+      "verse": {
+        "reference": "Job 38:19",
+        "text": ""Where is the way where light dwells?"",
+      },
+      "fact": "Modern science has only recently discovered that light (electromagnetic radiation) has a "way." In the vacuum of space, this "way" is the speed of light, which travels at about 186,000 miles per second",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "24. The Bible's Insight on the Connection Between Mind and Body",
+      "verse": {
+        "reference": "Proverbs 14:30, Proverbs 15:30, Proverbs 16:24, & Proverbs 17:22",
+        "text": ".",
+      },
+      "fact": "Medical science has now recognized the strong link between a person's mental and physical health. This concept was already revealed in the Bible around 950 B.C., as seen in several verses: "A sound heart is the life of the flesh, but envy is the rottenness of the bones" (Proverbs 14:30); "The light of the eyes rejoices the heart, and a good report makes the bones fat [healthy]" (Proverbs 15:30); "Pleasant words are as a honeycomb, sweet to the soul, and health to the bones" (Proverbs 16:24); and "A merry heart does good like a medicine, but a broken spirit dries the bones" (Proverbs 17:22). These passages highlight the deep connection between emotional well-being and physical health, a relationship that modern medicine is only now beginning to fully understand.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "25. The Bible and Bacteria",
+      "verse": {
+        "reference": "Exodus 22:31",
+        "text": ""And... neither shall you eat any flesh that is torn of beasts in the field; you shall cast it to the dogs"",
+      },
+      "fact": "Long before modern science discovered bacteria, God provided for Israel by prohibiting the consumption of meat that could be contaminated by harmful bacteria.— Richard Gunther",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "26. The Bible and Fat Intake"
+      "verse": {
+        "reference": "Leviticus 7:22-24",
+        "text": ""And the LORD spoke to Moses, saying, Speak unto the children of Israel, saying, You shall eat no manner of fat, of ox, or of sheep, or of goat."",
+      },
+      "fact": "The American Heart Association states: "The major kinds of fats in the foods we eat are saturated, polyunsaturated, monounsaturated, and trans fatty acids. Saturated fats, trans fats, and dietary cholesterol raise blood cholesterol. A high level of cholesterol in the blood is a major risk factor for coronary heart disease, which can lead to heart attacks." Regarding prostate cancer, a study from the University of Pennsylvania Cancer Center found, "The fourth most common cause of cancer among men may be related to saturated fat consumption." Saturated fats primarily come from animal products.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "27. The Bible and the Immune System "
       "verse": {
         "reference": "Genesis 17:12",
-        "text": ""Every male among you who is eight days old shall be circumcised, every male throughout your generations, whether born in your household or purchased with money from any foreigner not of your offspring.",
+        "text": ""He who is eight days old among you shall be circumcised. Every male throughout your generations, whether born in your house or bought with your money from any foreigner who is not of your offspring,"",
       },
-      "fact": " Why specify the eighth day for circumcision? Modern medical science has found that on the eighth day of a newborn’s life, the blood-clotting factor prothrombin peaks above 100%, making it the only day this occurs.",
+      "fact": "The Bible instructs that male babies be circumcised on the eighth day (Genesis 17:12). Modern medical science has discovered that on this day, the coagulating factor in the blood, called prothrombin, is at its highest. It peaks on the eighth day and then decreases. Additionally, medical science has found that the body's immune system is also at its peak on this day.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "28. The Bible and Laws of Quarantine"
+      "verse": {
+        "reference": "Leviticus 13:46",
+        "text": " "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; outside the camp shall his habitation be"",
+      },
+      "fact": "Long before medical science recognized the importance of quarantining individuals with infectious diseases, the Bible established such practices. In 1490 B.C., the Scriptures instructed the children of Israel on what to do if a man had leprosy: he was to be considered unclean and must dwell alone, outside the camp. Quarantine laws were not introduced by modern society until the seventeenth century. During the devastating Black Death of the fourteenth century, sick or dead individuals were often kept in the same rooms as the rest of the family. People wondered why the disease spread so quickly and attributed the epidemics to "bad air" or "evil spirits." However, if the medical commands given in Leviticus had been followed, countless lives could have been saved. Arturo Castiglione noted the significance of this biblical medical law, writing, "The laws against leprosy in Leviticus 13 may be regarded as the first model of sanitary legislation" (A History of Medicine).— Grant R. Jeffery, The Signature of God",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+ {
+      "title": "29. Scientists Admit Genesis is "Close to the Truth" "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": "Scientists often feel uneasy when their discoveries seem to align with the account found in Genesis chapter one. Notice the use of the word "uncanny" in the following quotes: "Most cosmologists (scientists who study the structures and evolution of the universe) agree that the Genesis account of creation, in imagining an initial void, may be uncannily close to the truth." (Time, December 1976) "The universe suddenly exploded into being... The big bang bears an uncanny resemblance to the Genesis command." — Jim Holt, Wall Street Journal science writer. "New scientific revelations about supernovas, black holes, quarks, and the big bang even suggest to some scientists that there is a 'grand design' in the universe." — U.S. News & World Report, March 31, 1997.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+ {
+      "title": "30.  The Bible Speaks of a Specific Design"
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ""Slight variations in physical laws such as gravity or electromagnetism would make life impossible... The necessity to produce life lies at the center of the universe's whole machinery and design." — John Wheeler, Princeton University professor of physics (Reader's Digest, September 1986). Even evolutionist Stephen Hawking, regarded as one of the most renowned scientists since Albert Einstein, admits, "The universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on..." — Austin American Statesman, October 19, 1997.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/Light_shining1.jpg",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+ {
+      "title": "31. "
+      "verse": {
+        "reference": ".",
+        "text": ".",
+      },
+      "fact": ""Slight variations in physical laws such as gravity or electromagnetism would make life impossible... The necessity to produce life lies at the center of the universe's whole machinery and design." — John Wheeler, Princeton University professor of physics (Reader's Digest, September 1986). Even evolutionist Stephen Hawking, regarded as one of the most renowned scientists since Albert Einstein, admits, "The universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on..." — Austin American Statesman, October 19, 1997.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
       "image":"../images/Light_shining1.jpg",
       "styles": {
@@ -294,52 +532,7 @@
       }
     },
 
-    
   
-
-  {
-    "text": "17.  Isaiah 40:22 (written 2,800 years ago): \"It is He that . . . stretches out the heavens as a curtain, and spreads them out as a tent to dwell in.\" Scientists are beginning to understand that the universe is expanding, or stretching out. At least seven times in Scripture we are clearly told that God stretches out the heavens like a curtain."
-  },
-  {
-    "text": "18: Book of Job (1520 B.C.)—Filled with Scientific Facts \"The study of the Book of Job and its comparison with the latest scientific discoveries has brought me to the matured conviction that the Bible is an inspired book and was written by the One who made the stars.\" Charles Burckhalter, Chabot Observatory"
-  },
-  {
-    "text": "19: The Book of Job and Air Mass “Scripture tells us in Job 28:25 that there is ‘a weight for the wind.’ Long before it was recognized that the air had weight (sixteenth century), the Bible said that it did. It also tells us that water has weight. The fact that so much water covers the earth means that the effects of the sun and moon’s gravity are balanced perfectly. The energy is dissipated in the water—the weight of the water is precisely measured.” Richard Gunther"
-  },
-  {
-    "text": "20: The Book of Job and the Earth’s Rotation For ages, scientists believed in a geocentric view of the universe. The differences between night and day were believed to be caused by the sun revolving around the earth. Today, we know that the earth’s rotation on its axis is responsible for the sun’s rising and setting. But 4,000 or more years ago, it was written, \"Have you commanded the morning since your days; and caused the day spring [dawn] to know his place? . . . It [the earth] is turned as clay to the seal\" (Job 38:12,14). The picture here is of a clay vessel being turned or rotated upon the potter’s wheel—an accurate analogy of the earth’s rotation."
-  },
-  {
-    "text": "21: The Book of Job and Springs of the Sea \"Modern deep-sea-diving cameras have discovered amazing hot-water vents on the floor of the oceans— ‘the springs of the sea,’ which are mentioned in Job 38:16. These thermal vents release huge amounts of mineral-rich, super-heated water—springs in the darkness.\" Richard Gunther"
-  },
-  {
-    "text": "22: The Book of Job and Light \"Sir Isaac Newton studied light and discovered that white light is made of seven colors, which can be ‘parted’ from the white (see Job 38:24), and then recombined to make white again. Science discovered this in 1650.\" Richard Gunther"
-  },
-  {
-    "text": "23: The Book of Job and the Way of Light The Book of Job 38:19 asks, “Where is the way where light dwells?” Modern man has only recently discovered that light (electromagnetic radiation) has a \"way.\" In empty space this speed is approximately 186,000 miles per second"
-  },
-  {
-    "text": "24: The Bible and the Correlation of Mind and Body Medical science has come to understand that there is a strong relationship between a person’s mental and physical health. The Bible revealed this to us with these statements (and others) written around 950 B.C.: ● \"A sound heart is the life of the flesh: but envy is the rottenness of the bones” (Proverbs 14:30). ● \"The light of the eyes rejoices the heart: and a good report makes the bones fat [healthy]” (Proverbs 15:30). ● \"Pleasant words are as an honeycomb, sweet to the soul, and health to the bones” (Proverbs 16:24). ● \"A merry heart does good like a medicine: but a broken spirit dries the bones\" (Proverbs 17:22)."
-  },
-  {
-    "text": "25: The Bible and Bacteria \"And . . . neither shall you eat any flesh that is torn of beasts in the field; you shall cast it to the dogs” (Exodus 22:31). Thousands of years before modern science identified bacteria, God made provision for Israel by banning the eating of meat that may be spoiled by bacteria.\" Richard Gunther"
-  },
-  {
-    "text": "26: The Bible and Fat Intake The American Heart Association says: \"The major kinds of fats in the foods we eat are saturated, polyunsaturated, monounsaturated, and trans fatty acids. Saturated fats, trans fats, and dietary cholesterol raise blood cholesterol. A high level of cholesterol in the blood is a major risk factor for coronary heart disease, which leads to heart attack.” In reference to prostate cancer, a study by the University of Pennsylvania Cancer Center stated, “The fourth most common cause of cancer among men may be related to saturated fat consumption.\" Saturated fats come from animals. In Leviticus 7:22–24 we are told, \"And the LORD spoke to Moses, saying, Speak unto the children of Israel, saying, You shall eat no manner of fat, of ox, or of sheep, or of goat.\""
-  },
-  {
-    "text": "27: The Bible and the Immune System The Bible instructs that male babies are to be circumcised on the eighth day (Genesis 17:12). Medical science has now discovered that this is the day that the coagulating factor in the blood, called prothrombin, is the highest. It reaches its peak on the eighth day, then drops. Medical science has also discovered that this is when the human body’s immune system is at its peak"
-  },
-  {
-    "text": "28: The Bible and Laws of Quarantine Long before medical science discovered the importance of quarantine of persons with infectious diseases, the Bible instigated them. In 1490 B.C. the Scriptures tell the children of Israel what to do if a man has leprosy: \"All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be\" (Leviticus 13:46). Laws of quarantine were not instigated by modern man until the seventeenth century. \"During the devastating Black Death of the fourteenth century, patients who were sick or dead were kept in the same rooms as the rest of the family. People often wondered why the disease was affecting so many people at one time. They attributed these epidemics to ‘bad air’ or ‘evil spirits.’ However, careful attention to the medical commands of God as revealed in Leviticus would have saved untold millions of lives. Arturo Castiglione wrote about the overwhelming importance of this biblical medical law: ‘The laws against leprosy in Leviticus 13 may be regarded as the first model of sanitary legislation’ (A History of Medicine).\" Grant R. Jeffery, The Signature of God"
-  },
- 
-  {
-    "text": "29: Scientists Admit Genesis is \"Close to the Truth\" Scientists get a little nervous when they realize that their discoveries lead them back to Genesis chapter one. Notice the use of the word “uncanny” in the following quotes: \"Most cosmologists (scientists who study the structures and evolution of the universe) agree that the Genesis account of creation, in imagining an initial void, may be uncannily close to the truth.\" (Time, December 1976) “The universe suddenly exploded into being. . . The big bang bears an uncanny resemblance to the Genesis command.\" Jim Holt, Wall Street Journal science writer \"New scientific revelations about supernovas, black holes, quarks, and the big bang even suggest to some scientists that there is a ‘grand design’ in the universe.\" (U.S. News & World Report, March 31, 1997)"
-  },
-  {
-    "text": "30: The Bible Speaks of a Specific Design \"Slight variations in physical laws such as gravity or electromagnetism would make life impossible . . .The necessity to produce life lies at the center of the universe’s whole machinery and design.\" John Wheeler, Princeton University professor of physics (Reader’s Digest, September 1986) Even evolutionist Stephen Hawking, considered the best-known scientist since Albert Einstein, acknowledges “the universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on . . .” (Austin American Statesman, October 19, 1997)"
-  },
   {
     "text": "31: The Bible Speaks of One Common Ancestor \"Researchers suggest that virtually all modern men— 99% of them, says one scientist—are closely related genetically and share genes with one male ancestor, dubbed ‘Y-chromosome Adam.’ We are finding that humans have very, very shallow genetic roots which go back very recently to one ancestor. . . That indicates that there was an origin in a specific location on the globe, and then it spread out from there.\" (U.S. News & World Report, December 4, 1995)"
   },
