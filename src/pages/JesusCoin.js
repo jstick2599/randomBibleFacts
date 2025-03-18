@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import "../styling/JesusCoin.css";
 import bottomDenarii from "../images/bottomDenari.jfif"; 
 import topDenari from "../images/topDenari.jfif";
@@ -78,7 +78,7 @@ function JesusCoin(){
         </div>
     </div> 
     <div className="bottomDenarius">
-        <img src={topDenari2} alt="Denarius Coin" id="bottomDenariImage" />
+        <img src={bottomDenarii} alt="Denarius Coin" id="bottomDenariImage" />
     </div>
     
 </div>

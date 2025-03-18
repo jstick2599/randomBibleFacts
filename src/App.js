@@ -6,6 +6,7 @@ import YaGroupArticle from "./pages/YaGroupArticle";
 import AboutUs from "./pages/AboutUs";
 import JesusCoin from "./pages/JesusCoin";
 import JesusVisions from "./pages/HeavenlyVisionsArticle";
+import FaithOverFinances from "./pages/FaithOverFinances";
 import "./App.css";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/AboutUs" element={<AboutUs />} />
         <Route path="/JesusVisions" element={<JesusVisions />} />
         <Route path="/JesusCoin" element={<JesusCoin />} />
+        <Route path="/FaithOverFinances" element={<FaithOverFinances />} />
       </Routes>
     </Router>
   );

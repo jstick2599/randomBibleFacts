@@ -98,7 +98,7 @@ const LandingPage = () => {
   const AboutUsPage = () => navigate("/AboutUs");
   const VisionsOfChrist = () => navigate("/JesusVisions");
   const JesusCoin = () => navigate("/JesusCoin");
-
+  const FaithOverFinances = () => navigate("/FaithOverFinances");
   return (
     <div className="landingPageWrapper">
       <div className="page1">
@@ -175,7 +175,7 @@ const LandingPage = () => {
             <div className="tile" onClick={JesusCoin}>
             
             </div>
-            <div className="tile">
+            <div className="tile" onClick={FaithOverFinances}>
             
             </div>
           </div>
