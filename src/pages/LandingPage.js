@@ -10,6 +10,8 @@ import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
 import princeOfPeaceImage from "../images/croppedJesusPhoto.png";
+import topDenari from "../images/topDenari.jfif";
+import money from "../images/money.jpg";
 import Share from "../component/Share.js";
 
 
@@ -173,9 +175,23 @@ const LandingPage = () => {
 
             </div>
             <div className="tile" onClick={JesusCoin}>
+              <img src={topDenari} alt="Denarius Coin" id="jesusImage" />
+              <h2 className="aboutUsTitle">The Denarius of Destiny: God’s Perfect Timing in Jesus’ Teaching</h2>
+              <p className="aboutUsParagraph">In Matthew 22:19-21, Jesus uses a coin with Caesar’s image which highlights God’s perfect timing. Minted between 14 and 37 AD. This demonstrates God’s precise orchestration of history and our lives, urging trust in His timing.</p>
+              <div className="tileDescriptionDiv">
+                <Share url="https://versefacts.com/JesusCoin" title="Check out this amazing article!" body="Check out this article:"/>
+                <p className="verseFacts">Verse Facts 2/19/2025</p>
+              </div>
             
             </div>
             <div className="tile" onClick={FaithOverFinances}>
+            <img src={money} alt="Denarius Coin" id="jesusImage" />
+              <h2 className="aboutUsTitle">Faith Over Finances</h2>
+              <p className="aboutUsParagraph">In Matthew 22:19-21, Jesus uses a coin with Caesar’s image which highlights God’s perfect timing. Minted between 14 and 37 AD. This demonstrates God’s precise orchestration of history and our lives, urging trust in His timing.</p>
+              <div className="tileDescriptionDiv">
+                <Share url="https://versefacts.com/JesusCoin" title="Check out this amazing article!" body="Check out this article:"/>
+                <p className="verseFacts">Verse Facts 2/19/2025</p>
+              </div>
             
             </div>
           </div>

@@ -190,6 +190,7 @@ button:hover {
 .tileDescriptionDiv{
   display: flex;
   flex-direction: column; 
+ 
 
 }
 
