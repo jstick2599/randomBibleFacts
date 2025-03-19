@@ -13,6 +13,7 @@ import princeOfPeaceImage from "../images/croppedJesusPhoto.png";
 import topDenari from "../images/topDenari.jfif";
 import money from "../images/money.jpg";
 import Share from "../component/Share.js";
+import Privacy from "./Privacy.js";
 
 
 const LandingPage = () => {
@@ -101,6 +102,7 @@ const LandingPage = () => {
   const VisionsOfChrist = () => navigate("/JesusVisions");
   const JesusCoin = () => navigate("/JesusCoin");
   const FaithOverFinances = () => navigate("/FaithOverFinances");
+  const Privacy = () => navigate("/Privacy");
   return (
     <div className="landingPageWrapper">
       <div className="page1">
@@ -195,6 +197,9 @@ const LandingPage = () => {
             
             </div>
           </div>
+        </div>
+        <div>
+          <button onClick={Privacy}>Privacy Policy</button>
         </div>
         <div className="socialMedia">
           <a href="https://www.instagram.com/versefacts.com_2025/">
