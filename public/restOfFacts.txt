@@ -58,7 +58,7 @@
       },
       "fact": "Scientists often feel uneasy when their discoveries seem to align with the account found in Genesis chapter one. Notice the use of the word \"uncanny\" in the following quotes: \"Most cosmologists (scientists who study the structures and evolution of the universe) agree that the Genesis account of creation, in imagining an initial void, may be uncannily close to the truth.\" (Time, December 1976) \"The universe suddenly exploded into being... The big bang bears an uncanny resemblance to the Genesis command.\" — Jim Holt, Wall Street Journal science writer. \"New scientific revelations about supernovas, black holes, quarks, and the big bang even suggest to some scientists that there is a 'grand design' in the universe.\" — U.S. News & World Report, March 31, 1997.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"bigbang.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -75,7 +75,7 @@
       },
       "fact": "\"Slight variations in physical laws such as gravity or electromagnetism would make life impossible... The necessity to produce life lies at the center of the universe's whole machinery and design.\" — John Wheeler, Princeton University professor of physics (Reader's Digest, September 1986). Even evolutionist Stephen Hawking, regarded as one of the most renowned scientists since Albert Einstein, admits, \"The universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on...\" — Austin American Statesman, October 19, 1997.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"bigbang.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
