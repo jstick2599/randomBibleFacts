@@ -211,24 +211,7 @@
       },
       "fact": "\"Science provides a glimpse into God’s purpose in nature. The remarkable world of atoms and radiation itself points to a purposeful creation, suggesting the existence of God and an intelligent purpose behind everything. An orderly universe bears witness to the greatest truth ever spoken: 'In the beginning, God...'\"— Arthur H. Compton, Nobel Prize in Physics winner",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
-      "styles": {
-        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
-        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
-        "verseText": { "color": "black", "fontStyle": "italic" },
-        "fact": { "color": "darkgreen", "fontSize": "16px" },
-        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
-      }
-    },
-{
-      "title": "39. Needs to be Added Still",
-      "verse": {
-        "reference": ".",
-        "text": "."
-      },
-      "fact": ".",
-      "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"../Arthur H. Compton.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
