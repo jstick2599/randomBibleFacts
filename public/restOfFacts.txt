@@ -126,7 +126,7 @@
       },
       "fact": "\"The chance that higher life forms could have emerged through evolution is comparable to the chance that a tornado sweeping through a junkyard might assemble a Boeing 747 from the materials there.\" \"The likelihood of life forming from inanimate matter is one in 10^40,000... This probability is large enough to dismiss Darwin and the entire theory of evolution. There was no primeval soup, either on this planet or any other, and if the beginnings of life were not random, they must have been the result of purposeful intelligence.\"— Sir Fred Hoyle, professor of astronomy, Cambridge University",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"../evolution.png",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
