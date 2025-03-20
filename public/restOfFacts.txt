@@ -7,7 +7,7 @@
       },
       "fact": "The American Heart Association states: \"The major kinds of fats in the foods we eat are saturated, polyunsaturated, monounsaturated, and trans fatty acids. Saturated fats, trans fats, and dietary cholesterol raise blood cholesterol. A high level of cholesterol in the blood is a major risk factor for coronary heart disease, which can lead to heart attacks.\" Regarding prostate cancer, a study from the University of Pennsylvania Cancer Center found, \"The fourth most common cause of cancer among men may be related to saturated fat consumption.\" Saturated fats primarily come from animal products.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"fatman.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -24,7 +24,7 @@
       },
       "fact": "The Bible instructs that male babies be circumcised on the eighth day (Genesis 17:12). Modern medical science has discovered that on this day, the coagulating factor in the blood, called prothrombin, is at its highest. It peaks on the eighth day and then decreases. Additionally, medical science has found that the body's immune system is also at its peak on this day.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"immunesystem.png",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -41,7 +41,7 @@
       },
       "fact": "Long before medical science recognized the importance of quarantining individuals with infectious diseases, the Bible established such practices. In 1490 B.C., the Scriptures instructed the children of Israel on what to do if a man had leprosy: he was to be considered unclean and must dwell alone, outside the camp. Quarantine laws were not introduced by modern society until the seventeenth century. During the devastating Black Death of the fourteenth century, sick or dead individuals were often kept in the same rooms as the rest of the family. People wondered why the disease spread so quickly and attributed the epidemics to \"bad air\" or \"evil spirits.\" However, if the medical commands given in Leviticus had been followed, countless lives could have been saved. Arturo Castiglione noted the significance of this biblical medical law, writing, \"The laws against leprosy in Leviticus 13 may be regarded as the first model of sanitary legislation\" (A History of Medicine).— Grant R. Jeffery, The Signature of God",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"3120-masks-california-covid.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -58,7 +58,7 @@
       },
       "fact": "Scientists often feel uneasy when their discoveries seem to align with the account found in Genesis chapter one. Notice the use of the word \"uncanny\" in the following quotes: \"Most cosmologists (scientists who study the structures and evolution of the universe) agree that the Genesis account of creation, in imagining an initial void, may be uncannily close to the truth.\" (Time, December 1976) \"The universe suddenly exploded into being... The big bang bears an uncanny resemblance to the Genesis command.\" — Jim Holt, Wall Street Journal science writer. \"New scientific revelations about supernovas, black holes, quarks, and the big bang even suggest to some scientists that there is a 'grand design' in the universe.\" — U.S. News & World Report, March 31, 1997.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"bigbang.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -75,7 +75,7 @@
       },
       "fact": "\"Slight variations in physical laws such as gravity or electromagnetism would make life impossible... The necessity to produce life lies at the center of the universe's whole machinery and design.\" — John Wheeler, Princeton University professor of physics (Reader's Digest, September 1986). Even evolutionist Stephen Hawking, regarded as one of the most renowned scientists since Albert Einstein, admits, \"The universe and the laws of physics seem to have been specifically designed for us. If any one of about 40 physical qualities had more than slightly different values, life as we know it could not exist: Either atoms would not be stable, or they wouldn’t combine into molecules, or the stars wouldn’t form the heavier elements, or the universe would collapse before life could develop, and so on...\" — Austin American Statesman, October 19, 1997.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"bigbang.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -92,7 +92,7 @@
       },
       "fact": "\"Researchers suggest that virtually all modern men—99% of them, according to one scientist—are closely related genetically and share genes with one male ancestor, referred to as 'Y-chromosome Adam.' We are discovering that humans have very shallow genetic roots that trace back to one recent ancestor... This points to an origin in a specific location on the globe, from which humans spread out.\" — U.S. News & World Report, December 4, 1995.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"adam&eve.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
@@ -109,7 +109,7 @@
       },
       "fact": "\"Approximately 85% of the Earth's rock surface consists of sedimentary rock, suggesting that at some point in the past, the world was covered by water.\" — Peter and Paul Lalonde, 301 Startling Proofs & Prophecies",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"theflood.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
