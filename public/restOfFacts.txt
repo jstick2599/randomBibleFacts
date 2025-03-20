@@ -449,7 +449,7 @@
       },
       "fact": "Several biblical books foretell future events, and Ezekiel 38, written around 600 B.C., offers a striking prophecy. It predicts that in “the latter days” (v. 16), Russia—identified as the “Prince of Rosh” (see Smith’s Bible Dictionary, p. 584)—will unite with Iran, Libya (referred to in Hebrew as “Put”), and communistic Ethiopia (known in Hebrew as “Cush”) to launch an attack on Israel (vv. 5–8). This invasion will occur after Israel achieves a successful peace initiative (v. 11). The Bible details Russia’s motives and the direction of the assault (vv. 10–15), pinpointing the battle’s location as Armageddon (Revelation 16:16), commonly understood as “the mountain of Megiddo” on the northern edge of the Jezreel plains. Russia’s longstanding presence in the region supports this scenario: “The Soviets are entrenched around the rim of the Middle East heartland, in Afghanistan, South Yemen, Ethiopia, and Libya” (“Countdown in the Middle East,” Reader’s Digest, May 1982).",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"../russia.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
