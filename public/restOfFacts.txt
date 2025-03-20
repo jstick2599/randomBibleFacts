@@ -432,7 +432,7 @@
       },
       "fact": "In Isaiah 66:7-8, written around 700 B.C., the prophet Isaiah delivers an extraordinary prediction: “Shall the earth be made to bring forth in one day? Or shall a nation be born at once? For as soon as Zion travailed, she brought forth her children.” This prophecy came to life with stunning precision on May 14, 1948, when the modern state of Israel was established in a single day. The groundwork was laid in 1922, when the League of Nations granted Great Britain a mandate over Palestine. Yet, it was on May 14, 1948, as Britain relinquished its mandate, that Israel proclaimed its independence, fulfilling the vision of a nation “born in a day.” More than 25 biblical prophecies about Palestine have been precisely fulfilled, with probability estimates indicating that the odds of these events occurring by chance are less than 1 in 33 million.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"../israel.png",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
