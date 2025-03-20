@@ -177,7 +177,7 @@
       },
       "fact": "The Bible teaches us that animals are created \"without understanding,\" whereas we, as humans, are made in God's \"image.\" We are not simply a more advanced species in an evolutionary timeline; rather, we possess an awareness of our existence. While God is the \"I AM,\" we know that \"we are.\" This consciousness sets us apart from animals, as we uniquely understand our being. In addition to this self-awareness, we have a deep, inherent ability to appreciate God's creation. No animal stands in awe of a sunset or the vastness of the Grand Canyon. No animal takes joy in the beauty of music or organizes itself into an orchestra to create harmony. Animals do not establish court systems or deliver justice to one another. We are moral beings, capable of reasoning and ethics. While animals follow instincts to build nests or engage in other behaviors, humans uncover the mysteries of science—such as the principles of electricity and aerodynamics—that allow us to soar across the world. We also possess the unique ability to discover and utilize the natural resources of gold, silver, diamonds, and oil for our benefit. Above all, only humans have the capacity to recognize and appreciate God for this magnificent creation and to respond to His love.",
       "source": "Ray Comfort: Scientific Facts of the Bible",
-      "image":"../images/Light_shining1.jpg",
+      "image":"../Godnman.jpg",
       "styles": {
         "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
         "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
