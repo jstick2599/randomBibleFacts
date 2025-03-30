@@ -551,31 +551,143 @@ the sun and moon are darkened,
         "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
       }
     },
+{
+      "title": "57. The Book of Peter and Nuclear Weapons",
+      "verse": {
+        "reference": "2 Peter 3:10",
+        "text": "But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will melt with fervent heat; both the earth and the works that are in it will be burned up"
+      },
+      "fact": "The Bible appears to describe the effects of nuclear weaponry, something that would have been impossible to explain using the scientific knowledge of 67 A.D. In Peter, there is a depiction of sudden destruction, intense heat, and the melting of elements—imagery that closely resembles the effects of a nuclear explosion. This suggests a prophetic understanding beyond human knowledge at the time.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "58. The Bible and the Role of "Lights"",
+      "verse": {
+        "reference": ".",
+        "text": "."
+      },
+      "fact": "Genesis describes the "lights" in the heavens as being created for signs, seasons, days, and years. Today, through astronomy, we understand that a year is determined by the Earth's orbit around the Sun, and the changing seasons result from the Earth's shifting position relative to the Sun. Astronomers can precisely measure when one season ends and another begins based on this motion. Additionally, a month is defined by the Moon's revolution around the Earth in relation to the Sun. Given that this knowledge was scientifically unknown 3,500 years ago, how could Moses, the traditionally accepted author of Genesis, have accurately described these celestial roles unless his words were divinely inspired?",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "59. The Bible and the Stars",
+      "verse": {
+        "reference": "1 Corinthians 15:41",
+        "text": "There is one glory of the sun, another glory of the moon, and another glory of the stars; for one star differs from another star in glory."
+      },
+      "fact": "Over 2,500 years ago, the Bible described the vastness of the stars, stating that the "host of heaven cannot be numbered, neither the sand of the sea measured." At the time, only about 1,100 stars were visible to the naked eye, and their true number was unknown. Today, we understand that the universe contains billions of stars, making them truly uncountable. The Bible also mentions that each star is unique, a fact confirmed by modern astronomy. While stars may appear identical to the naked eye or even through a telescope, their distinct compositions and characteristics are revealed through spectral analysis. This ancient biblical insight aligns with what science has only recently discovered.",
+      "source": "Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "60. The Bible and Outer Space",
+      "verse": {
+        "reference": "Deuteronomy 10:14",
+        "text": "Indeed heaven and the highest heavens belong to the Lord your God, also the earth with all that is in it"
+      },
+      "fact": "Long before the Hubble Space Telescope offered its breathtaking views of the universe, the Bible referenced both "the heavens" and "the highest heavens" (Deuteronomy 10:14). Today, we understand that space extends far beyond what was once imagined, containing vast expanses of galaxies, galaxy clusters, and superclusters—referred to as "the highest heavens." – Richard Gunther",
+      "source": "Richard Gunther, Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "61. The Bible and the Sun’s Circuit",
+      "verse": {
+        "reference": "Psalm 19:6 (NKJV)",
+        "text": "Its rising is from one end of heaven, and its circuit to the other end; and there is nothing hidden from its heat."
+      },
+      "fact": "In Psalm 19:6, the psalmist (circa 800 B.C.) spoke of the sun, saying, "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof." For years, critics dismissed this verse, claiming it implied a geocentric model, where the sun revolves around the Earth. At the time, scientists believed the sun was stationary. However, modern science has revealed that the sun is actually moving through space at an incredible speed of approximately 600,000 miles per hour. It follows a vast "circuit" through the heavens, just as the Bible describes. This circuit is so enormous that it takes roughly 200 million years to complete one full orbit.",
+      "source": "Richard Gunther, Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "62. The Bible and the Revolving Earth",
+      "verse": {
+        "reference": "Luke 17:24",
+        "text": "For as the lightning that flashes out of one part under heaven shines to the other part under heaven, so also the Son of Man will be in His day"
+      },
+      "fact": "The Scriptures describe the Second Coming of Jesus Christ, which will occur at the speed of light (Luke 17:24), happening while some people are asleep at night and others are working during the day in the fields. This is a clear reference to a revolving Earth, where day and night occur simultaneously. This concept wasn't understood by science until the fifteenth century.",
+      "source": "Richard Gunther, Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "63. The Bible and the Expanding Universe",
+      "verse": {
+        "reference": "Psalm 104:2",
+        "text": "Who cover Yourself with light as with a garment, who stretch out the heavens like a curtain."
+      },
+      "fact": "Scientists have recently discovered that the universe is expanding, stretching out over time. Interestingly, Scripture mentions this concept at least seven times, stating that God "stretches out the heavens like a curtain" (e.g., Psalm 104:2). This remarkable parallel between modern science and ancient biblical descriptions is striking.",
+      "source": "Richard Gunther, Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
+{
+      "title": "64. Astronomy Confirms the Bible",
+      "verse": {
+        "reference": "Psalm 104:2",
+        "text": "Who cover Yourself with light as with a garment, who stretch out the heavens like a curtain."
+      },
+      "fact": "In 1964, Drs. Arno Penzias and Robert Wilson of Bell Labs discovered a persistent noise coming from all directions in space, permeating the universe. This was later hailed by physicists as the first observational evidence of the Big Bang, often referred to as "the radio echo of creation." Penzias recognized the philosophical implications of his discovery, stating, "[T]he best data we have are exactly what I would have predicted, had I had nothing to go on but the five books of Moses, the Psalms, the Bible as a whole... [T]he creation of the universe is supported by all the observable data astronomy has produced so far",
+      "source": "Richard Gunther, Ray Comfort: Scientific Facts of the Bible",
+      "image":"../images/bible.webp",
+      "styles": {
+        "title": { "color": "darkblue", "fontSize": "24px", "fontWeight": "bold" },
+        "verseReference": { "color": "brown", "fontSize": "18px", "fontWeight": "bold" },
+        "verseText": { "color": "black", "fontStyle": "italic" },
+        "fact": { "color": "darkgreen", "fontSize": "16px" },
+        "source": { "color": "gray", "fontSize": "14px", "fontStyle": "italic" }
+      }
+    },
 
-{
-  "text": "56. The Bible and Nuclear War Ezekiel 39, written over 2,500 years ago, speaks of God’s judgment upon the enemies of Israel. Verses 12–15 describe what will happen after what many see as the Battle of Armageddon: \"And seven months shall the house of Israel be burying of them, that they may cleanse the land...And they shall sever out men of continual employment, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search. And the passengers that pass through the land, when any sees a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamongog.\" Before the days of nuclear warfare, this portion of the Bible would have made no sense to the reader. We are told that even the weapons left by the enemy will have to be burned (Ezekiel 39:9). So many will die 44 that it will take those specially employed for the purpose seven months to bury the dead (v. 14). The Scriptures are very specific about the method of burial. When even a bone is found by searchers, a special marker is to be placed near the bone until the buriers have buried it. This would seem to be a clear reference to radioactive contamination after nuclear war. This thought is confirmed in Joel 2:30, which speaks of \"pillars of smoke.\""
-},
-{
-  "text": "57. The Book of Peter and Nuclear Weapons The Bible suggests the effects of nuclear weaponry. This is certainly not something that could have been explained in 67 A.D. using known scientific principles (when Peter wrote the following verse): But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will melt with fervent heat; both the earth and the works that are in it will be burned up (2 Peter 3:10)."
-},
-{
-  "text": "58. The Bible and \"Lights\" God created the \"lights\" in the heavens \"for signs, and for seasons, and for days and years\" (Genesis 1:14). Through the marvels of astronomy we now understand that a year is the time required for the earth to travel once around the sun. The seasons are caused by the changing position of the earth in relation to the sun-\"astronomers can tell exactly from the earth’s motion around the sun when one season ends and the next one begins\" (Worldbook Multimedia Encyclopedia). We also now understand that a \"month is the time of one revolution of the moon around the earth with respect to the sun\" (Encyclopedia Britannica). How could Moses (the accepted author of Genesis) have known 3,500 years ago that the \"lights\" of the sun and moon were the actual determining factors of the year’s length, unless his words were inspired by God?"
-},
-{
-  "text": "59. The Bible and the Stars In Jeremiah 33:22, the Bible states that \"the host of heaven cannot be numbered, neither the sand of the sea measured.\" When this was written, 2,500 years ago, no one knew how vast the stars were, since only about 1,100 were visible. Now we know that there are billions of stars, and that they cannot be numbered. The Bible also tells us that each star is unique (1 Corinthians 15:41). All stars look alike to the naked eye. Even when seen through a telescope, they still seem to be just points of light. However, close examination of their light spectra reveals that each is different from all others."
-},
-{
-  "text": "60. The Bible and Outer Space \"Long before the Hubble Space Telescope was available, the Bible spoke of both \"the heavens\" and \"the highest heavens\" (see Deuteronomy 10:14). Today we know that there are vast reaches in space, with galaxies, and clusters of galaxies, and super clusters—\"the highest heavens.\"\" Richard Gunther."
-},
-{
-  "text": "61. The Bible and the Sun’s Circuit In speaking of the sun, the psalmist (800 B.C.) said that \"his going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof\" (Psalm 19:6). For many years critics scoffed at this verse, claiming that it taught the doctrine of geocentricity (i.e., the sun revolves around the earth). Scientists at that time thought the sun was stationary. However, it has been discovered in recent years that the sun is in fact moving through space at approximately 600,000 miles per hour. It is traveling through the heavens and has a \"circuit\" just as the Bible says. Its circuit is so large that it would take approximately 200 million years to complete one orbit."
-},
-{
-  "text": "62. The Bible and the Revolving Earth The Scriptures tell us that the Second Coming of Jesus Christ (which will happen at the speed of light —Luke 17:24) will occur while some are asleep at night and others are working at daytime activities in the field. This is a clear indication of a revolving earth, with day and night at the same time. Science didn’t discover this until the fifteenth century."
-},
-{
-  "text": "63. The Bible and the Expanding Universe It is interesting to note that scientists are beginning to understand that the universe is expanding or stretching out. At least seven times in Scripture we are told that God \"stretches out the heavens like a curtain\" (e.g., Psalm 104:2)."
-},
 {
   "text": "64. Astronomy Confirms the Bible In 1964, Drs. Arno Penzias and Robert Wilson of Bell Labs discovered a noise coming from all directions, permeating the universe. Physicists hailed this as the first observational evidence of the Big Bang known as \"the radio echo of creation.\" Penzias saw the philosophical significance in his discovery. \"[T]he best data we have,\" he said, \"are exactly what I would have predicted, had I had nothing to go on but the five books of Moses, the Psalms, the Bible as a whole . . . [T]he creation of the universe is supported by all the observable data astronomy has produced so far.\""
 },
