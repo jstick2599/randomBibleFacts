@@ -10,10 +10,9 @@ import bible from "../images/bible.webp";
 import bibleStudyImage from "../images/bibleStudyImage.jpg";
 import websiteLogo from "../images/websiteLogo.jpeg";
 import princeOfPeaceImage from "../images/croppedJesusPhoto.png";
-import topDenari from "../images/topDenari.jfif";
+import topDenari from "../images/topDenari.jpg";
 import money from "../images/money.jpg";
 import Share from "../component/Share.js";
-import Privacy from "./Privacy.js";
 
 
 const LandingPage = () => {
@@ -198,9 +197,6 @@ const LandingPage = () => {
             </div>
           </div>
         </div>
-        <div>
-          <button onClick={Privacy}>Privacy Policy</button>
-        </div>
         <div className="socialMedia">
           <a href="https://www.instagram.com/versefacts.com_2025/">
             <img src={igImage} alt="Instagram Logo" id="igLogo"/>
@@ -213,6 +209,9 @@ const LandingPage = () => {
           <a href="https://www.tiktok.com/@versefacts.com">
             <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
           </a>
+        </div>
+        <div>
+          <button onClick={Privacy}>Privacy Policy</button>
         </div>
       </div>
     </div>
