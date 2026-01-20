@@ -13,6 +13,8 @@ import princeOfPeaceImage from "../images/croppedJesusPhoto.png";
 import topDenari from "../images/topDenari.jpg";
 import money from "../images/money.jpg";
 import Share from "../component/Share.js";
+import Merch from "../component/Merch.js";
+import Privacy from "./Privacy.js";
 
 
 const LandingPage = () => {
@@ -40,6 +42,7 @@ const LandingPage = () => {
   }, []);
 
   const generateVerse = () => {
+    console.log("Generating verse...");
     if (verses.length === 0) return;
   
     const cactus = document.getElementById("saguaro");
@@ -104,7 +107,9 @@ const LandingPage = () => {
   const Privacy = () => navigate("/Privacy");
   return (
     <div className="landingPageWrapper">
+      
       <div className="page1">
+        <Merch className='merchBanner'/>
         <div className="container">
           <div className="titleText">
             <span>{bibleEmoji}</span>
@@ -197,6 +202,9 @@ const LandingPage = () => {
             </div>
           </div>
         </div>
+        <div className="privacy">
+          <button onClick={Privacy} >Privacy Policy</button>
+        </div>
         <div className="socialMedia">
           <a href="https://www.instagram.com/versefacts.com_2025/">
             <img src={igImage} alt="Instagram Logo" id="igLogo"/>
@@ -210,12 +218,9 @@ const LandingPage = () => {
             <img src={tiktokImage} alt="Tiktok Logo" id="tiktokLogo"/>
           </a>
         </div>
-        <div>
-          <button onClick={Privacy}>Privacy Policy</button>
-        </div>
       </div>
     </div>
   );
 };
 
-export default LandingPage; 
+export default LandingPage;  

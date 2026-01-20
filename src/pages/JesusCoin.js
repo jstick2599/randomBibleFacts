@@ -2,7 +2,7 @@ import React from "react";
 import "../styling/JesusCoin.css";
 import bottomDenarii from "../images/bottomDenari.jfif"; 
 import topDenari from "../images/topDenari.jpg";
-import topDenari2 from "../images/topDenarii.jfif";
+import topDenari2 from "../images/topDenarii.jpg";
 function JesusCoin(){
     return(
 <div className="hvFullPage">
