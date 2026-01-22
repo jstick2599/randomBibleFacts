@@ -11,7 +11,7 @@ import faithTucson from "../images/faithTucsonChurch.png";
 import underGround from "../images/underGround.jpg";
 import remnantYa from "../images/remnantYaGroup.jpg";
 import rockChurch from "../images/rockChurch.png";
-import Ads from "../component/Ads.js";
+
 
 function YaGroupArticle(){
     return(
