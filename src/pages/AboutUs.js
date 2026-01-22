@@ -2,7 +2,6 @@
 import React from "react";
 import "../styling/AboutUs.css";
 import aboutUsPic from "../images/aboutUsPic.jpg";
-import cactus from "../images/cactus.png";
 import ReactPlayer from "react-player";
 
 function AboutUs(){

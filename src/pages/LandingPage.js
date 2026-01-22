@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../styling/LandingPage.css";
 import cactusImage from "../images/cactus.png";
-import croppedCactus from "../images/croppedCactus.png";
 import youtubeImage from "../images/youtubeLogo.webp";
 import tiktokImage from "../images/tiktokLogo.png";
 import igImage from "../images/igLogo.png";
@@ -14,7 +13,6 @@ import topDenari from "../images/topDenari.jpg";
 import money from "../images/money.jpg";
 import Share from "../component/Share.js";
 import Merch from "../component/Merch.js";
-import Privacy from "./Privacy.js";
 
 
 const LandingPage = () => {

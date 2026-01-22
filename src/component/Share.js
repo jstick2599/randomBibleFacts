@@ -4,12 +4,10 @@ import {
   TwitterShareButton,
   LinkedinShareButton,
   WhatsappShareButton,
-  EmailShareButton,
   FacebookIcon,
   TwitterIcon,
   LinkedinIcon,
   WhatsappIcon,
-  EmailIcon,
 } from "react-share";
 
 const Share = ({ url, title }) => {
